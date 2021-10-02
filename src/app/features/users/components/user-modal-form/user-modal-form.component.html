@@ -1,0 +1,66 @@
+<div tabindex="-1" role="dialog">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">{{ title }}</h5>
+      </div>
+      <div class="modal-body">
+        <form [formGroup]="form" autocomplete="off">
+          <div class="form-group">
+            <label [for]="formControls.firstName">First Name</label>
+            <input
+              [formControlName]="formControls.firstName"
+              [id]="formControls.firstName"
+              class="form-control"
+              placeholder="Enter Your First Name"
+            />
+          </div>
+          <div class="form-group">
+            <label [for]="formControls.lastName">Last Name</label>
+            <input
+              [formControlName]="formControls.lastName"
+              [id]="formControls.lastName"
+              class="form-control"
+              placeholder="Enter Your Last Name"
+            />
+          </div>
+          <div class="form-group">
+            <label [for]="formControls.email">Email</label>
+            <input
+              [formControlName]="formControls.email"
+              [id]="formControls.email"
+              class="form-control"
+              placeholder="Enter Your Email"
+            />
+          </div>
+          <div class="form-group">
+            <label [for]="formControls.birthDate">Birth Date</label>
+            <input
+              [formControlName]="formControls.birthDate"
+              [id]="formControls.birthDate"
+              class="form-control"
+              placeholder="Enter Your Birth Date"
+            />
+          </div>
+          <div class="form-group">
+            <label [for]="formControls.role">User Role</label>
+            <input
+              [formControlName]="formControls.role"
+              [id]="formControls.role"
+              class="form-control"
+              placeholder="Choose user role"
+            />
+          </div>
+        </form>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" (click)="cancel()">
+          Cancel
+        </button>
+        <button type="button" class="btn btn-primary" (click)="save()">
+          Save changes
+        </button>
+      </div>
+    </div>
+  </div>
+</div>

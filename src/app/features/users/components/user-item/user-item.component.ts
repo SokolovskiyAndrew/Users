@@ -9,14 +9,14 @@ import { User } from '../../../../core/interfaces';
 export class UserItemComponent implements OnInit {
   @Input() userInfo: User;
   @Output() deleteUserAction: EventEmitter<number> = new EventEmitter<number>();
-  @Output() editUserAction: EventEmitter<number> = new EventEmitter<number>();
+  @Output() editUserAction: EventEmitter<User> = new EventEmitter<User>();
 
   constructor() {}
 
   ngOnInit(): void {}
 
-  editUser(userId: number): void {
-    this.editUserAction.emit(userId);
+  editUser(): void {
+    this.editUserAction.emit(this.userInfo);
   }
 
   deleteUser(userId: number): void {
