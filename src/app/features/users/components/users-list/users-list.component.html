@@ -1,15 +1,27 @@
 <div class="container-fluid">
   <div class="container">
     <div class="row">
-      <button type="button" class="btn btn-outline-secondary">Add user</button>
+      <button
+        type="button"
+        class="btn btn-outline-secondary"
+        (click)="openModal()"
+      >
+        Add user
+      </button>
     </div>
     <div class="row">
-      <div class="list">
+      <div class="list" *ngIf="(userList$ | async)?.length; else noData">
         <app-user-item
           *ngFor="let user of userList$ | async; trackBy: trackUserById"
           [userInfo]="user"
+          (editUserAction)="editUser($event)"
+          (deleteUserAction)="deleteUser($event)"
         ></app-user-item>
       </div>
+
+      <ng-template #noData>
+        <p>There is no data</p>
+      </ng-template>
     </div>
   </div>
 </div>

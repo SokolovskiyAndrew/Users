@@ -5,7 +5,12 @@ import { NgbModal, NgbModalRef } from '@ng-bootstrap/ng-bootstrap';
 import { AppState } from '../../../../store';
 import { User } from '../../../../core/interfaces';
 import { userList } from '../../../../store/user/user.selector';
-import { getUserList } from '../../../../store/user/user.actions';
+import {
+  addUser,
+  deleteUser,
+  editUser,
+  getUserList,
+} from '../../../../store/user/user.actions';
 import { UserModalFormComponent } from '../user-modal-form/user-modal-form.component';
 
 @Component({
@@ -22,40 +27,38 @@ export class UsersListComponent implements OnInit {
     this.getUsersList();
   }
 
-  addUser(): void {}
-
   editUser(userInfo: User): void {
     const modalRef: NgbModalRef = this.modalService.open(
       UserModalFormComponent
     );
-    modalRef.componentInstance.title = 'New User';
+    modalRef.componentInstance.title = 'Edit User';
     modalRef.componentInstance.userInfo = userInfo;
 
-    modalRef.closed.subscribe((userData) => {
-      console.log(userData);
-      if (userData) {
-        //TODO: send request to edit existed user
+    modalRef.closed.subscribe((userInfo) => {
+      if (userInfo) {
+        this.store.dispatch(editUser({ userInfo }));
       }
     });
   }
 
-  deleteUser(userId: number): void {}
+  deleteUser(userId: number): void {
+    this.store.dispatch(deleteUser({ userId }));
+  }
 
   openModal(): void {
     const modalRef: NgbModalRef = this.modalService.open(
       UserModalFormComponent
     );
     modalRef.componentInstance.title = 'New User';
-    modalRef.closed.subscribe((userData) => {
-      console.log(userData);
-      if (userData) {
-        //TODO: send request to save new user
+    modalRef.closed.subscribe((userInfo) => {
+      if (userInfo) {
+        this.store.dispatch(addUser({ userInfo }));
       }
     });
   }
 
   trackUserById(index: number, user: User): number {
-    return user.id;
+    return user.id!;
   }
 
   private getUsersList(): void {
