@@ -4,7 +4,7 @@
     "firstName": "Geraldine",
     "lastName": "Head",
     "email": "geraldinehead@digirang.com",
-    "birthDate": "2015-11-20T12:05:53 -02:00",
+    "birthDate": "2015-11-20T12:05:53",
     "role": "Riskmanager"
   },
   {
@@ -12,7 +12,7 @@
     "firstName": "Blake",
     "lastName": "Summers",
     "email": "blakesummers@digirang.com",
-    "birthDate": "2019-05-09T12:22:23 -03:00",
+    "birthDate": "2019-05-09T12:22:23",
     "role": "Processexpert"
   },
   {
@@ -20,7 +20,7 @@
     "firstName": "Cindy",
     "lastName": "Flowers",
     "email": "cindyflowers@digirang.com",
-    "birthDate": "2014-10-17T12:50:35 -03:00",
+    "birthDate": "2014-10-17T12:50:35",
     "role": "Riskmanager"
   },
   {
@@ -28,7 +28,7 @@
     "firstName": "Daisy",
     "lastName": "Crosby",
     "email": "daisycrosby@digirang.com",
-    "birthDate": "2018-08-21T05:46:20 -03:00",
+    "birthDate": "2018-08-21T05:46:20",
     "role": "Auditor"
   },
   {
@@ -36,7 +36,7 @@
     "firstName": "Jenna",
     "lastName": "Bates",
     "email": "jennabates@digirang.com",
-    "birthDate": "2020-04-09T06:39:43 -03:00",
+    "birthDate": "2020-04-09T06:39:43 ",
     "role": "Processexpert"
   },
   {
@@ -44,7 +44,7 @@
     "firstName": "Smith",
     "lastName": "Villarreal",
     "email": "smithvillarreal@digirang.com",
-    "birthDate": "2015-03-13T02:46:59 -02:00",
+    "birthDate": "2015-03-13T02:46:59 ",
     "role": "Auditor"
   },
   {
@@ -52,7 +52,7 @@
     "firstName": "Montgomery",
     "lastName": "Sweeney",
     "email": "montgomerysweeney@digirang.com",
-    "birthDate": "2018-09-05T11:19:31 -03:00",
+    "birthDate": "2018-09-05T11:19:31 ",
     "role": "Auditor"
   },
   {
@@ -60,7 +60,7 @@
     "firstName": "Wilder",
     "lastName": "Savage",
     "email": "wildersavage@digirang.com",
-    "birthDate": "2014-09-02T04:06:33 -03:00",
+    "birthDate": "2014-09-02T04:06:33 ",
     "role": "Processexpert"
   },
   {
@@ -68,7 +68,7 @@
     "firstName": "Martha",
     "lastName": "Ruiz",
     "email": "martharuiz@digirang.com",
-    "birthDate": "2018-04-16T10:54:23 -03:00",
+    "birthDate": "2018-04-16T10:54:23 ",
     "role": "Auditor"
   },
   {
@@ -76,7 +76,7 @@
     "firstName": "Collins",
     "lastName": "Hampton",
     "email": "collinshampton@digirang.com",
-    "birthDate": "2019-05-10T07:27:59 -03:00",
+    "birthDate": "2019-05-10T07:27:59 ",
     "role": "Riskmanager"
   },
   {
@@ -84,7 +84,7 @@
     "firstName": "Diana",
     "lastName": "Farmer",
     "email": "dianafarmer@digirang.com",
-    "birthDate": "2017-10-01T02:45:04 -03:00",
+    "birthDate": "2017-10-01T02:45:04 ",
     "role": "Processexpert"
   },
   {
@@ -92,7 +92,7 @@
     "firstName": "Watkins",
     "lastName": "Whitfield",
     "email": "watkinswhitfield@digirang.com",
-    "birthDate": "2018-11-12T03:39:32 -02:00",
+    "birthDate": "2018-11-12T03:39:32 ",
     "role": "Admin"
   },
   {
@@ -100,7 +100,7 @@
     "firstName": "Heather",
     "lastName": "Martinez",
     "email": "heathermartinez@digirang.com",
-    "birthDate": "2020-11-04T06:58:36 -02:00",
+    "birthDate": "2020-11-04T06:58:36 ",
     "role": "Riskmanager"
   },
   {
@@ -108,7 +108,7 @@
     "firstName": "Rochelle",
     "lastName": "Mcbride",
     "email": "rochellemcbride@digirang.com",
-    "birthDate": "2018-12-08T12:23:13 -02:00",
+    "birthDate": "2018-12-08T12:23:13 ",
     "role": "Admin"
   },
   {
@@ -116,7 +116,7 @@
     "firstName": "Pauline",
     "lastName": "Vasquez",
     "email": "paulinevasquez@digirang.com",
-    "birthDate": "2019-09-10T11:22:03 -03:00",
+    "birthDate": "2019-09-10T11:22:03 ",
     "role": "Processexpert"
   },
   {
@@ -124,7 +124,7 @@
     "firstName": "Kristy",
     "lastName": "Hodges",
     "email": "kristyhodges@digirang.com",
-    "birthDate": "2017-06-24T04:03:06 -03:00",
+    "birthDate": "2017-06-24T04:03:06 ",
     "role": "Admin"
   },
   {
@@ -132,7 +132,7 @@
     "firstName": "Mayo",
     "lastName": "Cohen",
     "email": "mayocohen@digirang.com",
-    "birthDate": "2017-09-17T08:59:39 -03:00",
+    "birthDate": "2017-09-17T08:59:39 ",
     "role": "Riskmanager"
   },
   {
@@ -140,7 +140,7 @@
     "firstName": "Reba",
     "lastName": "Miranda",
     "email": "rebamiranda@digirang.com",
-    "birthDate": "2021-08-01T01:44:39 -03:00",
+    "birthDate": "2021-08-01T01:44:39 ",
     "role": "Auditor"
   },
   {
@@ -148,7 +148,7 @@
     "firstName": "Burch",
     "lastName": "Watts",
     "email": "burchwatts@digirang.com",
-    "birthDate": "2020-04-20T12:13:21 -03:00",
+    "birthDate": "2020-04-20T12:13:21 ",
     "role": "Riskmanager"
   },
   {
@@ -156,7 +156,7 @@
     "firstName": "Stevens",
     "lastName": "Whitney",
     "email": "stevenswhitney@digirang.com",
-    "birthDate": "2020-04-14T11:38:18 -03:00",
+    "birthDate": "2020-04-14T11:38:18 ",
     "role": "Auditor"
   },
   {
@@ -164,7 +164,7 @@
     "firstName": "Dorothy",
     "lastName": "Cameron",
     "email": "dorothycameron@digirang.com",
-    "birthDate": "2017-01-06T06:39:44 -02:00",
+    "birthDate": "2017-01-06T06:39:44 ",
     "role": "Riskmanager"
   },
   {
@@ -172,7 +172,7 @@
     "firstName": "Gallegos",
     "lastName": "Mccormick",
     "email": "gallegosmccormick@digirang.com",
-    "birthDate": "2017-04-02T03:54:55 -03:00",
+    "birthDate": "2017-04-02T03:54:55 ",
     "role": "Admin"
   },
   {
@@ -180,7 +180,7 @@
     "firstName": "Christian",
     "lastName": "Ramirez",
     "email": "christianramirez@digirang.com",
-    "birthDate": "2021-01-31T01:53:14 -02:00",
+    "birthDate": "2021-01-31T01:53:14 ",
     "role": "Auditor"
   },
   {
@@ -188,7 +188,7 @@
     "firstName": "Delacruz",
     "lastName": "Short",
     "email": "delacruzshort@digirang.com",
-    "birthDate": "2019-11-08T06:48:49 -02:00",
+    "birthDate": "2019-11-08T06:48:49 ",
     "role": "Auditor"
   },
   {
@@ -196,7 +196,7 @@
     "firstName": "Reyes",
     "lastName": "Witt",
     "email": "reyeswitt@digirang.com",
-    "birthDate": "2021-01-13T10:42:35 -02:00",
+    "birthDate": "2021-01-13T10:42:35 ",
     "role": "Admin"
   },
   {
@@ -204,7 +204,7 @@
     "firstName": "Ericka",
     "lastName": "Atkins",
     "email": "erickaatkins@digirang.com",
-    "birthDate": "2015-04-15T08:24:50 -03:00",
+    "birthDate": "2015-04-15T08:24:50 ",
     "role": "Admin"
   },
   {
@@ -212,7 +212,7 @@
     "firstName": "Alba",
     "lastName": "Walls",
     "email": "albawalls@digirang.com",
-    "birthDate": "2020-05-07T01:15:26 -03:00",
+    "birthDate": "2020-05-07T01:15:26 ",
     "role": "Auditor"
   },
   {
@@ -220,7 +220,7 @@
     "firstName": "Santos",
     "lastName": "Rodriguez",
     "email": "santosrodriguez@digirang.com",
-    "birthDate": "2015-09-26T04:31:30 -03:00",
+    "birthDate": "2015-09-26T04:31:30 ",
     "role": "Auditor"
   },
   {
@@ -228,7 +228,7 @@
     "firstName": "Kenya",
     "lastName": "Kline",
     "email": "kenyakline@digirang.com",
-    "birthDate": "2019-10-05T04:27:43 -03:00",
+    "birthDate": "2019-10-05T04:27:43 ",
     "role": "Auditor"
   },
   {
@@ -236,7 +236,7 @@
     "firstName": "Odessa",
     "lastName": "Hale",
     "email": "odessahale@digirang.com",
-    "birthDate": "2017-05-09T03:46:31 -03:00",
+    "birthDate": "2017-05-09T03:46:31 ",
     "role": "Auditor"
   },
   {
@@ -244,7 +244,7 @@
     "firstName": "Elinor",
     "lastName": "Oneill",
     "email": "elinoroneill@digirang.com",
-    "birthDate": "2016-03-21T02:24:35 -02:00",
+    "birthDate": "2016-03-21T02:24:35 ",
     "role": "Auditor"
   },
   {
@@ -252,7 +252,7 @@
     "firstName": "Cunningham",
     "lastName": "Melton",
     "email": "cunninghammelton@digirang.com",
-    "birthDate": "2014-05-13T02:48:27 -03:00",
+    "birthDate": "2014-05-13T02:48:27 ",
     "role": "Processexpert"
   },
   {
@@ -260,7 +260,7 @@
     "firstName": "Terrie",
     "lastName": "Larsen",
     "email": "terrielarsen@digirang.com",
-    "birthDate": "2015-04-12T11:26:26 -03:00",
+    "birthDate": "2015-04-12T11:26:26 ",
     "role": "Auditor"
   },
   {
@@ -268,7 +268,7 @@
     "firstName": "Beach",
     "lastName": "Cleveland",
     "email": "beachcleveland@digirang.com",
-    "birthDate": "2021-06-23T06:19:27 -03:00",
+    "birthDate": "2021-06-23T06:19:27 ",
     "role": "Processexpert"
   },
   {
@@ -276,7 +276,7 @@
     "firstName": "Tanya",
     "lastName": "Hess",
     "email": "tanyahess@digirang.com",
-    "birthDate": "2015-09-15T08:32:36 -03:00",
+    "birthDate": "2015-09-15T08:32:36 ",
     "role": "Riskmanager"
   },
   {
@@ -284,7 +284,7 @@
     "firstName": "Noble",
     "lastName": "Pratt",
     "email": "noblepratt@digirang.com",
-    "birthDate": "2019-09-21T05:58:59 -03:00",
+    "birthDate": "2019-09-21T05:58:59 ",
     "role": "Processexpert"
   },
   {
@@ -292,7 +292,7 @@
     "firstName": "Noelle",
     "lastName": "Holder",
     "email": "noelleholder@digirang.com",
-    "birthDate": "2020-08-03T01:30:33 -03:00",
+    "birthDate": "2020-08-03T01:30:33 ",
     "role": "Riskmanager"
   },
   {
@@ -300,7 +300,7 @@
     "firstName": "Tasha",
     "lastName": "Massey",
     "email": "tashamassey@digirang.com",
-    "birthDate": "2020-08-12T10:27:48 -03:00",
+    "birthDate": "2020-08-12T10:27:48 ",
     "role": "Auditor"
   },
   {
@@ -308,7 +308,7 @@
     "firstName": "Estelle",
     "lastName": "Fuller",
     "email": "estellefuller@digirang.com",
-    "birthDate": "2018-06-10T05:05:46 -03:00",
+    "birthDate": "2018-06-10T05:05:46 ",
     "role": "Riskmanager"
   },
   {
@@ -316,7 +316,7 @@
     "firstName": "Morton",
     "lastName": "Holt",
     "email": "mortonholt@digirang.com",
-    "birthDate": "2015-02-14T11:59:27 -02:00",
+    "birthDate": "2015-02-14T11:59:27 ",
     "role": "Riskmanager"
   },
   {
@@ -324,7 +324,7 @@
     "firstName": "Amie",
     "lastName": "Griffith",
     "email": "amiegriffith@digirang.com",
-    "birthDate": "2019-02-18T07:28:35 -02:00",
+    "birthDate": "2019-02-18T07:28:35 ",
     "role": "Processexpert"
   },
   {
@@ -332,7 +332,7 @@
     "firstName": "Kirk",
     "lastName": "Black",
     "email": "kirkblack@digirang.com",
-    "birthDate": "2017-07-31T05:19:14 -03:00",
+    "birthDate": "2017-07-31T05:19:14 ",
     "role": "Admin"
   },
   {
@@ -340,7 +340,7 @@
     "firstName": "Trina",
     "lastName": "Elliott",
     "email": "trinaelliott@digirang.com",
-    "birthDate": "2018-06-18T10:10:34 -03:00",
+    "birthDate": "2018-06-18T10:10:34 ",
     "role": "Riskmanager"
   },
   {
@@ -348,7 +348,7 @@
     "firstName": "Burnett",
     "lastName": "Fitzgerald",
     "email": "burnettfitzgerald@digirang.com",
-    "birthDate": "2019-03-18T03:38:44 -02:00",
+    "birthDate": "2019-03-18T03:38:44 ",
     "role": "Processexpert"
   },
   {
@@ -356,7 +356,7 @@
     "firstName": "Rosella",
     "lastName": "Mclaughlin",
     "email": "rosellamclaughlin@digirang.com",
-    "birthDate": "2019-04-18T03:50:22 -03:00",
+    "birthDate": "2019-04-18T03:50:22 ",
     "role": "Riskmanager"
   },
   {
@@ -364,7 +364,7 @@
     "firstName": "Imelda",
     "lastName": "Hendrix",
     "email": "imeldahendrix@digirang.com",
-    "birthDate": "2016-06-29T09:19:07 -03:00",
+    "birthDate": "2016-06-29T09:19:07 ",
     "role": "Riskmanager"
   },
   {
@@ -372,7 +372,7 @@
     "firstName": "Earnestine",
     "lastName": "Eaton",
     "email": "earnestineeaton@digirang.com",
-    "birthDate": "2015-04-14T03:32:06 -03:00",
+    "birthDate": "2015-04-14T03:32:06 ",
     "role": "Admin"
   },
   {
@@ -380,7 +380,7 @@
     "firstName": "Glenna",
     "lastName": "Burch",
     "email": "glennaburch@digirang.com",
-    "birthDate": "2020-10-18T08:21:24 -03:00",
+    "birthDate": "2020-10-18T08:21:24 ",
     "role": "Processexpert"
   },
   {
@@ -388,7 +388,7 @@
     "firstName": "Chandra",
     "lastName": "Riggs",
     "email": "chandrariggs@digirang.com",
-    "birthDate": "2016-02-16T03:31:10 -02:00",
+    "birthDate": "2016-02-16T03:31:10 ",
     "role": "Auditor"
   },
   {
@@ -396,7 +396,7 @@
     "firstName": "Wiggins",
     "lastName": "Brock",
     "email": "wigginsbrock@digirang.com",
-    "birthDate": "2016-11-04T02:51:05 -02:00",
+    "birthDate": "2016-11-04T02:51:05 ",
     "role": "Auditor"
   },
   {
@@ -404,7 +404,7 @@
     "firstName": "Rivera",
     "lastName": "Malone",
     "email": "riveramalone@digirang.com",
-    "birthDate": "2020-03-24T05:24:28 -02:00",
+    "birthDate": "2020-03-24T05:24:28 ",
     "role": "Admin"
   },
   {
@@ -412,7 +412,7 @@
     "firstName": "Aurelia",
     "lastName": "Powell",
     "email": "aureliapowell@digirang.com",
-    "birthDate": "2019-10-15T12:21:27 -03:00",
+    "birthDate": "2019-10-15T12:21:27 ",
     "role": "Auditor"
   },
   {
@@ -420,7 +420,7 @@
     "firstName": "Alison",
     "lastName": "Meyers",
     "email": "alisonmeyers@digirang.com",
-    "birthDate": "2020-09-04T04:48:16 -03:00",
+    "birthDate": "2020-09-04T04:48:16 ",
     "role": "Processexpert"
   },
   {
@@ -428,7 +428,7 @@
     "firstName": "Miranda",
     "lastName": "Robertson",
     "email": "mirandarobertson@digirang.com",
-    "birthDate": "2019-06-23T01:59:11 -03:00",
+    "birthDate": "2019-06-23T01:59:11 ",
     "role": "Riskmanager"
   },
   {
@@ -436,7 +436,7 @@
     "firstName": "Myrtle",
     "lastName": "Norris",
     "email": "myrtlenorris@digirang.com",
-    "birthDate": "2014-01-15T01:07:16 -02:00",
+    "birthDate": "2014-01-15T01:07:16 ",
     "role": "Auditor"
   },
   {
@@ -444,7 +444,7 @@
     "firstName": "Warren",
     "lastName": "Meadows",
     "email": "warrenmeadows@digirang.com",
-    "birthDate": "2016-05-11T03:20:18 -03:00",
+    "birthDate": "2016-05-11T03:20:18 ",
     "role": "Processexpert"
   },
   {
@@ -452,7 +452,7 @@
     "firstName": "Dina",
     "lastName": "Ashley",
     "email": "dinaashley@digirang.com",
-    "birthDate": "2019-12-08T04:27:01 -02:00",
+    "birthDate": "2019-12-08T04:27:01 ",
     "role": "Admin"
   },
   {
@@ -460,7 +460,7 @@
     "firstName": "Addie",
     "lastName": "Warner",
     "email": "addiewarner@digirang.com",
-    "birthDate": "2015-08-23T08:13:30 -03:00",
+    "birthDate": "2015-08-23T08:13:30 ",
     "role": "Riskmanager"
   },
   {
@@ -468,7 +468,7 @@
     "firstName": "Huber",
     "lastName": "Holden",
     "email": "huberholden@digirang.com",
-    "birthDate": "2020-11-26T02:39:50 -02:00",
+    "birthDate": "2020-11-26T02:39:50 ",
     "role": "Auditor"
   },
   {
@@ -476,7 +476,7 @@
     "firstName": "Fran",
     "lastName": "Baldwin",
     "email": "franbaldwin@digirang.com",
-    "birthDate": "2015-12-12T02:58:49 -02:00",
+    "birthDate": "2015-12-12T02:58:49 ",
     "role": "Admin"
   },
   {
@@ -484,7 +484,7 @@
     "firstName": "Tisha",
     "lastName": "Green",
     "email": "tishagreen@digirang.com",
-    "birthDate": "2018-07-25T09:16:45 -03:00",
+    "birthDate": "2018-07-25T09:16:45 ",
     "role": "Admin"
   },
   {
@@ -492,7 +492,7 @@
     "firstName": "June",
     "lastName": "Michael",
     "email": "junemichael@digirang.com",
-    "birthDate": "2015-12-01T05:31:11 -02:00",
+    "birthDate": "2015-12-01T05:31:11 ",
     "role": "Admin"
   },
   {
@@ -500,7 +500,7 @@
     "firstName": "Mcguire",
     "lastName": "Keith",
     "email": "mcguirekeith@digirang.com",
-    "birthDate": "2019-04-22T03:57:31 -03:00",
+    "birthDate": "2019-04-22T03:57:31 ",
     "role": "Riskmanager"
   },
   {
@@ -508,7 +508,7 @@
     "firstName": "Kristina",
     "lastName": "Keller",
     "email": "kristinakeller@digirang.com",
-    "birthDate": "2014-07-10T04:16:49 -03:00",
+    "birthDate": "2014-07-10T04:16:49 ",
     "role": "Admin"
   },
   {
@@ -516,7 +516,7 @@
     "firstName": "Nelson",
     "lastName": "Bell",
     "email": "nelsonbell@digirang.com",
-    "birthDate": "2019-05-13T02:24:13 -03:00",
+    "birthDate": "2019-05-13T02:24:13 ",
     "role": "Auditor"
   },
   {
@@ -524,7 +524,7 @@
     "firstName": "Fay",
     "lastName": "Greene",
     "email": "faygreene@digirang.com",
-    "birthDate": "2021-03-21T03:42:30 -02:00",
+    "birthDate": "2021-03-21T03:42:30 ",
     "role": "Admin"
   },
   {
@@ -532,7 +532,7 @@
     "firstName": "Ray",
     "lastName": "Vance",
     "email": "rayvance@digirang.com",
-    "birthDate": "2016-08-10T05:31:21 -03:00",
+    "birthDate": "2016-08-10T05:31:21 ",
     "role": "Processexpert"
   },
   {
@@ -540,7 +540,7 @@
     "firstName": "Wilcox",
     "lastName": "Ferrell",
     "email": "wilcoxferrell@digirang.com",
-    "birthDate": "2020-01-13T10:06:13 -02:00",
+    "birthDate": "2020-01-13T10:06:13 ",
     "role": "Admin"
   },
   {
@@ -548,7 +548,7 @@
     "firstName": "Hawkins",
     "lastName": "Burton",
     "email": "hawkinsburton@digirang.com",
-    "birthDate": "2016-10-27T07:22:40 -03:00",
+    "birthDate": "2016-10-27T07:22:40 ",
     "role": "Processexpert"
   },
   {
@@ -556,7 +556,7 @@
     "firstName": "Aguilar",
     "lastName": "Delaney",
     "email": "aguilardelaney@digirang.com",
-    "birthDate": "2017-10-16T11:06:26 -03:00",
+    "birthDate": "2017-10-16T11:06:26 ",
     "role": "Admin"
   },
   {
@@ -564,7 +564,7 @@
     "firstName": "Wooten",
     "lastName": "Johns",
     "email": "wootenjohns@digirang.com",
-    "birthDate": "2018-12-17T10:00:42 -02:00",
+    "birthDate": "2018-12-17T10:00:42 ",
     "role": "Processexpert"
   },
   {
@@ -572,7 +572,7 @@
     "firstName": "Sylvia",
     "lastName": "Hickman",
     "email": "sylviahickman@digirang.com",
-    "birthDate": "2014-05-25T11:32:00 -03:00",
+    "birthDate": "2014-05-25T11:32:00 ",
     "role": "Admin"
   },
   {
@@ -580,7 +580,7 @@
     "firstName": "Betsy",
     "lastName": "Gomez",
     "email": "betsygomez@digirang.com",
-    "birthDate": "2021-09-13T11:36:26 -03:00",
+    "birthDate": "2021-09-13T11:36:26 ",
     "role": "Auditor"
   },
   {
@@ -588,7 +588,7 @@
     "firstName": "House",
     "lastName": "Key",
     "email": "housekey@digirang.com",
-    "birthDate": "2019-04-06T01:26:15 -03:00",
+    "birthDate": "2019-04-06T01:26:15 ",
     "role": "Riskmanager"
   },
   {
@@ -596,7 +596,7 @@
     "firstName": "Susanne",
     "lastName": "Stark",
     "email": "susannestark@digirang.com",
-    "birthDate": "2018-03-15T08:21:15 -02:00",
+    "birthDate": "2018-03-15T08:21:15 ",
     "role": "Processexpert"
   },
   {
@@ -604,7 +604,7 @@
     "firstName": "Katharine",
     "lastName": "Sharp",
     "email": "katharinesharp@digirang.com",
-    "birthDate": "2015-06-22T04:32:35 -03:00",
+    "birthDate": "2015-06-22T04:32:35 ",
     "role": "Auditor"
   },
   {
@@ -612,7 +612,7 @@
     "firstName": "Finch",
     "lastName": "Schneider",
     "email": "finchschneider@digirang.com",
-    "birthDate": "2020-12-24T06:17:04 -02:00",
+    "birthDate": "2020-12-24T06:17:04 ",
     "role": "Processexpert"
   },
   {
@@ -620,7 +620,7 @@
     "firstName": "Lisa",
     "lastName": "Mcclure",
     "email": "lisamcclure@digirang.com",
-    "birthDate": "2019-01-08T01:23:13 -02:00",
+    "birthDate": "2019-01-08T01:23:13 ",
     "role": "Processexpert"
   },
   {
@@ -628,7 +628,7 @@
     "firstName": "Chan",
     "lastName": "Huffman",
     "email": "chanhuffman@digirang.com",
-    "birthDate": "2019-10-18T02:51:39 -03:00",
+    "birthDate": "2019-10-18T02:51:39 ",
     "role": "Riskmanager"
   },
   {
@@ -636,7 +636,7 @@
     "firstName": "Kelsey",
     "lastName": "Mccray",
     "email": "kelseymccray@digirang.com",
-    "birthDate": "2021-05-23T04:30:37 -03:00",
+    "birthDate": "2021-05-23T04:30:37 ",
     "role": "Riskmanager"
   },
   {
@@ -644,7 +644,7 @@
     "firstName": "Little",
     "lastName": "Hood",
     "email": "littlehood@digirang.com",
-    "birthDate": "2020-06-03T12:13:07 -03:00",
+    "birthDate": "2020-06-03T12:13:07 ",
     "role": "Riskmanager"
   },
   {
@@ -652,7 +652,7 @@
     "firstName": "Leanna",
     "lastName": "Kent",
     "email": "leannakent@digirang.com",
-    "birthDate": "2015-06-25T04:42:33 -03:00",
+    "birthDate": "2015-06-25T04:42:33 ",
     "role": "Riskmanager"
   },
   {
@@ -660,7 +660,7 @@
     "firstName": "Kirby",
     "lastName": "Everett",
     "email": "kirbyeverett@digirang.com",
-    "birthDate": "2017-11-23T01:22:38 -02:00",
+    "birthDate": "2017-11-23T01:22:38 ",
     "role": "Admin"
   },
   {
@@ -668,7 +668,7 @@
     "firstName": "Pace",
     "lastName": "Conley",
     "email": "paceconley@digirang.com",
-    "birthDate": "2018-09-23T04:24:19 -03:00",
+    "birthDate": "2018-09-23T04:24:19 ",
     "role": "Auditor"
   },
   {
@@ -676,7 +676,7 @@
     "firstName": "Benita",
     "lastName": "Morton",
     "email": "benitamorton@digirang.com",
-    "birthDate": "2018-01-26T09:19:03 -02:00",
+    "birthDate": "2018-01-26T09:19:03 ",
     "role": "Auditor"
   },
   {
@@ -684,7 +684,7 @@
     "firstName": "Andrea",
     "lastName": "Franco",
     "email": "andreafranco@digirang.com",
-    "birthDate": "2018-05-18T04:05:02 -03:00",
+    "birthDate": "2018-05-18T04:05:02 ",
     "role": "Riskmanager"
   },
   {
@@ -692,7 +692,7 @@
     "firstName": "Marquez",
     "lastName": "Frye",
     "email": "marquezfrye@digirang.com",
-    "birthDate": "2020-10-15T12:54:03 -03:00",
+    "birthDate": "2020-10-15T12:54:03 ",
     "role": "Admin"
   },
   {
@@ -700,7 +700,7 @@
     "firstName": "Jennings",
     "lastName": "Macias",
     "email": "jenningsmacias@digirang.com",
-    "birthDate": "2021-04-21T05:07:33 -03:00",
+    "birthDate": "2021-04-21T05:07:33 ",
     "role": "Processexpert"
   },
   {
@@ -708,7 +708,7 @@
     "firstName": "Marilyn",
     "lastName": "Tillman",
     "email": "marilyntillman@digirang.com",
-    "birthDate": "2016-08-02T01:33:55 -03:00",
+    "birthDate": "2016-08-02T01:33:55 ",
     "role": "Processexpert"
   },
   {
@@ -716,7 +716,7 @@
     "firstName": "Marta",
     "lastName": "Mason",
     "email": "martamason@digirang.com",
-    "birthDate": "2018-12-02T12:02:56 -02:00",
+    "birthDate": "2018-12-02T12:02:56 ",
     "role": "Admin"
   },
   {
@@ -724,7 +724,7 @@
     "firstName": "Valdez",
     "lastName": "Wilkerson",
     "email": "valdezwilkerson@digirang.com",
-    "birthDate": "2014-10-07T04:12:58 -03:00",
+    "birthDate": "2014-10-07T04:12:58 ",
     "role": "Admin"
   },
   {
@@ -732,7 +732,7 @@
     "firstName": "Guthrie",
     "lastName": "Hurst",
     "email": "guthriehurst@digirang.com",
-    "birthDate": "2018-12-11T10:06:44 -02:00",
+    "birthDate": "2018-12-11T10:06:44 ",
     "role": "Auditor"
   },
   {
@@ -740,7 +740,7 @@
     "firstName": "Alexander",
     "lastName": "Sampson",
     "email": "alexandersampson@digirang.com",
-    "birthDate": "2016-04-03T05:20:26 -03:00",
+    "birthDate": "2016-04-03T05:20:26 ",
     "role": "Processexpert"
   },
   {
@@ -748,7 +748,7 @@
     "firstName": "Levy",
     "lastName": "Barr",
     "email": "levybarr@digirang.com",
-    "birthDate": "2017-02-26T03:49:00 -02:00",
+    "birthDate": "2017-02-26T03:49:00 ",
     "role": "Admin"
   },
   {
@@ -756,7 +756,7 @@
     "firstName": "Lesley",
     "lastName": "Owens",
     "email": "lesleyowens@digirang.com",
-    "birthDate": "2020-04-16T10:24:28 -03:00",
+    "birthDate": "2020-04-16T10:24:28 ",
     "role": "Riskmanager"
   },
   {
@@ -764,7 +764,7 @@
     "firstName": "Valerie",
     "lastName": "Howell",
     "email": "valeriehowell@digirang.com",
-    "birthDate": "2018-06-22T03:02:02 -03:00",
+    "birthDate": "2018-06-22T03:02:02 ",
     "role": "Admin"
   },
   {
@@ -772,7 +772,7 @@
     "firstName": "Melendez",
     "lastName": "Crawford",
     "email": "melendezcrawford@digirang.com",
-    "birthDate": "2019-04-27T05:44:38 -03:00",
+    "birthDate": "2019-04-27T05:44:38 ",
     "role": "Processexpert"
   },
   {
@@ -780,7 +780,7 @@
     "firstName": "Chasity",
     "lastName": "Shepherd",
     "email": "chasityshepherd@digirang.com",
-    "birthDate": "2015-11-18T06:00:55 -02:00",
+    "birthDate": "2015-11-18T06:00:55 ",
     "role": "Auditor"
   },
   {
@@ -788,7 +788,7 @@
     "firstName": "Eddie",
     "lastName": "Cortez",
     "email": "eddiecortez@digirang.com",
-    "birthDate": "2020-02-21T12:14:28 -02:00",
+    "birthDate": "2020-02-21T12:14:28 ",
     "role": "Riskmanager"
   },
   {
@@ -796,7 +796,7 @@
     "firstName": "Samantha",
     "lastName": "Gill",
     "email": "samanthagill@digirang.com",
-    "birthDate": "2017-11-03T06:26:12 -02:00",
+    "birthDate": "2017-11-03T06:26:12 ",
     "role": "Admin"
   },
   {
@@ -804,7 +804,7 @@
     "firstName": "Mia",
     "lastName": "Underwood",
     "email": "miaunderwood@digirang.com",
-    "birthDate": "2021-03-08T03:18:01 -02:00",
+    "birthDate": "2021-03-08T03:18:01 ",
     "role": "Processexpert"
   },
   {
@@ -812,7 +812,7 @@
     "firstName": "Gallagher",
     "lastName": "Harvey",
     "email": "gallagherharvey@digirang.com",
-    "birthDate": "2017-12-08T08:35:04 -02:00",
+    "birthDate": "2017-12-08T08:35:04 ",
     "role": "Admin"
   },
   {
@@ -820,7 +820,7 @@
     "firstName": "Wanda",
     "lastName": "Ramsey",
     "email": "wandaramsey@digirang.com",
-    "birthDate": "2016-09-19T08:33:08 -03:00",
+    "birthDate": "2016-09-19T08:33:08 ",
     "role": "Riskmanager"
   },
   {
@@ -828,7 +828,7 @@
     "firstName": "Mae",
     "lastName": "Kim",
     "email": "maekim@digirang.com",
-    "birthDate": "2014-03-04T07:23:59 -02:00",
+    "birthDate": "2014-03-04T07:23:59 ",
     "role": "Processexpert"
   },
   {
@@ -836,7 +836,7 @@
     "firstName": "Randi",
     "lastName": "Gilmore",
     "email": "randigilmore@digirang.com",
-    "birthDate": "2015-05-20T01:16:40 -03:00",
+    "birthDate": "2015-05-20T01:16:40 ",
     "role": "Auditor"
   },
   {
@@ -844,7 +844,7 @@
     "firstName": "Jacobson",
     "lastName": "Henson",
     "email": "jacobsonhenson@digirang.com",
-    "birthDate": "2021-04-28T02:32:26 -03:00",
+    "birthDate": "2021-04-28T02:32:26 ",
     "role": "Admin"
   },
   {
@@ -852,7 +852,7 @@
     "firstName": "Twila",
     "lastName": "Jones",
     "email": "twilajones@digirang.com",
-    "birthDate": "2018-04-19T02:45:56 -03:00",
+    "birthDate": "2018-04-19T02:45:56 ",
     "role": "Auditor"
   },
   {
@@ -860,7 +860,7 @@
     "firstName": "Mejia",
     "lastName": "Maddox",
     "email": "mejiamaddox@digirang.com",
-    "birthDate": "2020-11-15T06:09:27 -02:00",
+    "birthDate": "2020-11-15T06:09:27 ",
     "role": "Admin"
   },
   {
@@ -868,7 +868,7 @@
     "firstName": "Katina",
     "lastName": "Moss",
     "email": "katinamoss@digirang.com",
-    "birthDate": "2021-08-15T09:04:12 -03:00",
+    "birthDate": "2021-08-15T09:04:12 ",
     "role": "Admin"
   },
   {
@@ -876,7 +876,7 @@
     "firstName": "Orr",
     "lastName": "Stuart",
     "email": "orrstuart@digirang.com",
-    "birthDate": "2018-10-11T05:40:24 -03:00",
+    "birthDate": "2018-10-11T05:40:24 ",
     "role": "Processexpert"
   },
   {
@@ -884,7 +884,7 @@
     "firstName": "Cathryn",
     "lastName": "Vinson",
     "email": "cathrynvinson@digirang.com",
-    "birthDate": "2019-08-05T03:11:42 -03:00",
+    "birthDate": "2019-08-05T03:11:42 ",
     "role": "Processexpert"
   },
   {
@@ -892,7 +892,7 @@
     "firstName": "Juliette",
     "lastName": "Shannon",
     "email": "julietteshannon@digirang.com",
-    "birthDate": "2016-12-02T04:24:03 -02:00",
+    "birthDate": "2016-12-02T04:24:03 ",
     "role": "Processexpert"
   },
   {
@@ -900,7 +900,7 @@
     "firstName": "Judy",
     "lastName": "Puckett",
     "email": "judypuckett@digirang.com",
-    "birthDate": "2015-03-22T12:54:00 -02:00",
+    "birthDate": "2015-03-22T12:54:00 ",
     "role": "Riskmanager"
   },
   {
@@ -908,7 +908,7 @@
     "firstName": "Newman",
     "lastName": "Gray",
     "email": "newmangray@digirang.com",
-    "birthDate": "2020-10-19T03:40:13 -03:00",
+    "birthDate": "2020-10-19T03:40:13 ",
     "role": "Admin"
   },
   {
@@ -916,7 +916,7 @@
     "firstName": "Robinson",
     "lastName": "Morales",
     "email": "robinsonmorales@digirang.com",
-    "birthDate": "2020-11-20T06:35:05 -02:00",
+    "birthDate": "2020-11-20T06:35:05 ",
     "role": "Admin"
   },
   {
@@ -924,7 +924,7 @@
     "firstName": "Sweet",
     "lastName": "Rowland",
     "email": "sweetrowland@digirang.com",
-    "birthDate": "2020-06-29T12:44:26 -03:00",
+    "birthDate": "2020-06-29T12:44:26 ",
     "role": "Processexpert"
   },
   {
@@ -932,7 +932,7 @@
     "firstName": "Sabrina",
     "lastName": "Holcomb",
     "email": "sabrinaholcomb@digirang.com",
-    "birthDate": "2020-09-26T10:28:14 -03:00",
+    "birthDate": "2020-09-26T10:28:14 ",
     "role": "Riskmanager"
   },
   {
@@ -940,7 +940,7 @@
     "firstName": "Janette",
     "lastName": "Hensley",
     "email": "janettehensley@digirang.com",
-    "birthDate": "2018-02-08T04:41:31 -02:00",
+    "birthDate": "2018-02-08T04:41:31 ",
     "role": "Auditor"
   },
   {
@@ -948,7 +948,7 @@
     "firstName": "Price",
     "lastName": "Richardson",
     "email": "pricerichardson@digirang.com",
-    "birthDate": "2016-03-21T05:06:20 -02:00",
+    "birthDate": "2016-03-21T05:06:20 ",
     "role": "Admin"
   },
   {
@@ -956,7 +956,7 @@
     "firstName": "Louisa",
     "lastName": "Sullivan",
     "email": "louisasullivan@digirang.com",
-    "birthDate": "2020-04-07T07:36:09 -03:00",
+    "birthDate": "2020-04-07T07:36:09 ",
     "role": "Riskmanager"
   },
   {
@@ -964,7 +964,7 @@
     "firstName": "Logan",
     "lastName": "King",
     "email": "loganking@digirang.com",
-    "birthDate": "2017-06-19T08:39:13 -03:00",
+    "birthDate": "2017-06-19T08:39:13 ",
     "role": "Admin"
   },
   {
@@ -972,7 +972,7 @@
     "firstName": "Estes",
     "lastName": "Guerrero",
     "email": "estesguerrero@digirang.com",
-    "birthDate": "2021-01-10T09:03:38 -02:00",
+    "birthDate": "2021-01-10T09:03:38 ",
     "role": "Admin"
   },
   {
@@ -980,7 +980,7 @@
     "firstName": "Serena",
     "lastName": "Salinas",
     "email": "serenasalinas@digirang.com",
-    "birthDate": "2021-04-04T01:23:59 -03:00",
+    "birthDate": "2021-04-04T01:23:59 ",
     "role": "Auditor"
   },
   {
@@ -988,7 +988,7 @@
     "firstName": "Dickson",
     "lastName": "Reynolds",
     "email": "dicksonreynolds@digirang.com",
-    "birthDate": "2020-09-05T10:07:32 -03:00",
+    "birthDate": "2020-09-05T10:07:32 ",
     "role": "Processexpert"
   },
   {
@@ -996,7 +996,7 @@
     "firstName": "Ashley",
     "lastName": "Hicks",
     "email": "ashleyhicks@digirang.com",
-    "birthDate": "2020-05-16T12:48:55 -03:00",
+    "birthDate": "2020-05-16T12:48:55 ",
     "role": "Processexpert"
   },
   {
@@ -1004,7 +1004,7 @@
     "firstName": "Miranda",
     "lastName": "Best",
     "email": "mirandabest@digirang.com",
-    "birthDate": "2020-03-22T04:18:08 -02:00",
+    "birthDate": "2020-03-22T04:18:08 ",
     "role": "Auditor"
   },
   {
@@ -1012,7 +1012,7 @@
     "firstName": "Norris",
     "lastName": "Beard",
     "email": "norrisbeard@digirang.com",
-    "birthDate": "2014-09-27T08:08:30 -03:00",
+    "birthDate": "2014-09-27T08:08:30 ",
     "role": "Processexpert"
   },
   {
@@ -1020,7 +1020,7 @@
     "firstName": "Donaldson",
     "lastName": "Hoover",
     "email": "donaldsonhoover@digirang.com",
-    "birthDate": "2019-07-14T02:26:34 -03:00",
+    "birthDate": "2019-07-14T02:26:34 ",
     "role": "Admin"
   },
   {
@@ -1028,7 +1028,7 @@
     "firstName": "Gay",
     "lastName": "Roth",
     "email": "gayroth@digirang.com",
-    "birthDate": "2020-08-02T10:16:20 -03:00",
+    "birthDate": "2020-08-02T10:16:20 ",
     "role": "Auditor"
   },
   {
@@ -1036,7 +1036,7 @@
     "firstName": "Caitlin",
     "lastName": "Snider",
     "email": "caitlinsnider@digirang.com",
-    "birthDate": "2016-12-15T02:47:43 -02:00",
+    "birthDate": "2016-12-15T02:47:43 ",
     "role": "Admin"
   },
   {
@@ -1044,7 +1044,7 @@
     "firstName": "Allen",
     "lastName": "Odom",
     "email": "allenodom@digirang.com",
-    "birthDate": "2020-12-02T01:57:24 -02:00",
+    "birthDate": "2020-12-02T01:57:24 ",
     "role": "Processexpert"
   },
   {
@@ -1052,7 +1052,7 @@
     "firstName": "Harper",
     "lastName": "Willis",
     "email": "harperwillis@digirang.com",
-    "birthDate": "2015-06-14T06:06:26 -03:00",
+    "birthDate": "2015-06-14T06:06:26 ",
     "role": "Auditor"
   },
   {
@@ -1060,7 +1060,7 @@
     "firstName": "Kathryn",
     "lastName": "Cain",
     "email": "kathryncain@digirang.com",
-    "birthDate": "2014-01-14T12:24:28 -02:00",
+    "birthDate": "2014-01-14T12:24:28 ",
     "role": "Processexpert"
   },
   {
@@ -1068,7 +1068,7 @@
     "firstName": "Guzman",
     "lastName": "Anthony",
     "email": "guzmananthony@digirang.com",
-    "birthDate": "2016-04-24T02:26:22 -03:00",
+    "birthDate": "2016-04-24T02:26:22 ",
     "role": "Admin"
   },
   {
@@ -1076,7 +1076,7 @@
     "firstName": "Rosalie",
     "lastName": "Fry",
     "email": "rosaliefry@digirang.com",
-    "birthDate": "2016-11-21T05:56:37 -02:00",
+    "birthDate": "2016-11-21T05:56:37 ",
     "role": "Admin"
   },
   {
@@ -1084,7 +1084,7 @@
     "firstName": "Rhonda",
     "lastName": "Peterson",
     "email": "rhondapeterson@digirang.com",
-    "birthDate": "2017-03-09T09:56:40 -02:00",
+    "birthDate": "2017-03-09T09:56:40 ",
     "role": "Admin"
   },
   {
@@ -1092,7 +1092,7 @@
     "firstName": "Courtney",
     "lastName": "Cooper",
     "email": "courtneycooper@digirang.com",
-    "birthDate": "2021-03-04T08:58:29 -02:00",
+    "birthDate": "2021-03-04T08:58:29 ",
     "role": "Admin"
   },
   {
@@ -1100,7 +1100,7 @@
     "firstName": "Kidd",
     "lastName": "Lloyd",
     "email": "kiddlloyd@digirang.com",
-    "birthDate": "2019-06-03T09:52:14 -03:00",
+    "birthDate": "2019-06-03T09:52:14 ",
     "role": "Admin"
   },
   {
@@ -1108,7 +1108,7 @@
     "firstName": "Leola",
     "lastName": "Golden",
     "email": "leolagolden@digirang.com",
-    "birthDate": "2016-02-15T04:09:14 -02:00",
+    "birthDate": "2016-02-15T04:09:14 ",
     "role": "Riskmanager"
   },
   {
@@ -1116,7 +1116,7 @@
     "firstName": "Bertie",
     "lastName": "Mathis",
     "email": "bertiemathis@digirang.com",
-    "birthDate": "2017-05-05T04:45:25 -03:00",
+    "birthDate": "2017-05-05T04:45:25 ",
     "role": "Admin"
   },
   {
@@ -1124,7 +1124,7 @@
     "firstName": "Gilbert",
     "lastName": "Rosales",
     "email": "gilbertrosales@digirang.com",
-    "birthDate": "2015-01-09T05:21:10 -02:00",
+    "birthDate": "2015-01-09T05:21:10 ",
     "role": "Riskmanager"
   },
   {
@@ -1132,7 +1132,7 @@
     "firstName": "Gwen",
     "lastName": "Fulton",
     "email": "gwenfulton@digirang.com",
-    "birthDate": "2018-02-21T05:34:42 -02:00",
+    "birthDate": "2018-02-21T05:34:42 ",
     "role": "Processexpert"
   },
   {
@@ -1140,7 +1140,7 @@
     "firstName": "Cooley",
     "lastName": "Kidd",
     "email": "cooleykidd@digirang.com",
-    "birthDate": "2016-10-15T02:31:15 -03:00",
+    "birthDate": "2016-10-15T02:31:15 ",
     "role": "Auditor"
   },
   {
@@ -1148,7 +1148,7 @@
     "firstName": "Vargas",
     "lastName": "Hernandez",
     "email": "vargashernandez@digirang.com",
-    "birthDate": "2017-01-29T01:26:52 -02:00",
+    "birthDate": "2017-01-29T01:26:52 ",
     "role": "Riskmanager"
   },
   {
@@ -1156,7 +1156,7 @@
     "firstName": "Mathis",
     "lastName": "Battle",
     "email": "mathisbattle@digirang.com",
-    "birthDate": "2014-06-13T04:07:48 -03:00",
+    "birthDate": "2014-06-13T04:07:48 ",
     "role": "Riskmanager"
   },
   {
@@ -1164,7 +1164,7 @@
     "firstName": "Lila",
     "lastName": "Thomas",
     "email": "lilathomas@digirang.com",
-    "birthDate": "2019-01-27T01:45:40 -02:00",
+    "birthDate": "2019-01-27T01:45:40 ",
     "role": "Riskmanager"
   },
   {
@@ -1172,7 +1172,7 @@
     "firstName": "Odonnell",
     "lastName": "Hutchinson",
     "email": "odonnellhutchinson@digirang.com",
-    "birthDate": "2014-03-13T03:48:11 -02:00",
+    "birthDate": "2014-03-13T03:48:11 ",
     "role": "Processexpert"
   },
   {
@@ -1180,7 +1180,7 @@
     "firstName": "Estela",
     "lastName": "Garcia",
     "email": "estelagarcia@digirang.com",
-    "birthDate": "2018-08-01T12:36:33 -03:00",
+    "birthDate": "2018-08-01T12:36:33 ",
     "role": "Processexpert"
   },
   {
@@ -1188,7 +1188,7 @@
     "firstName": "Elizabeth",
     "lastName": "Patterson",
     "email": "elizabethpatterson@digirang.com",
-    "birthDate": "2018-11-20T11:53:27 -02:00",
+    "birthDate": "2018-11-20T11:53:27 ",
     "role": "Processexpert"
   },
   {
@@ -1196,7 +1196,7 @@
     "firstName": "Santiago",
     "lastName": "Buchanan",
     "email": "santiagobuchanan@digirang.com",
-    "birthDate": "2018-06-08T05:43:17 -03:00",
+    "birthDate": "2018-06-08T05:43:17 ",
     "role": "Riskmanager"
   },
   {
@@ -1204,7 +1204,7 @@
     "firstName": "Roslyn",
     "lastName": "Melendez",
     "email": "roslynmelendez@digirang.com",
-    "birthDate": "2015-02-08T08:35:57 -02:00",
+    "birthDate": "2015-02-08T08:35:57 ",
     "role": "Riskmanager"
   },
   {
@@ -1212,7 +1212,7 @@
     "firstName": "Enid",
     "lastName": "Blackwell",
     "email": "enidblackwell@digirang.com",
-    "birthDate": "2015-11-18T07:22:58 -02:00",
+    "birthDate": "2015-11-18T07:22:58 ",
     "role": "Auditor"
   },
   {
@@ -1220,7 +1220,7 @@
     "firstName": "Murphy",
     "lastName": "Austin",
     "email": "murphyaustin@digirang.com",
-    "birthDate": "2014-07-04T01:08:51 -03:00",
+    "birthDate": "2014-07-04T01:08:51 ",
     "role": "Processexpert"
   },
   {
@@ -1228,7 +1228,7 @@
     "firstName": "Meyer",
     "lastName": "Shelton",
     "email": "meyershelton@digirang.com",
-    "birthDate": "2018-02-26T10:38:42 -02:00",
+    "birthDate": "2018-02-26T10:38:42 ",
     "role": "Auditor"
   },
   {
@@ -1236,7 +1236,7 @@
     "firstName": "Ginger",
     "lastName": "Price",
     "email": "gingerprice@digirang.com",
-    "birthDate": "2018-02-21T12:03:41 -02:00",
+    "birthDate": "2018-02-21T12:03:41 ",
     "role": "Riskmanager"
   },
   {
@@ -1244,7 +1244,7 @@
     "firstName": "Nell",
     "lastName": "Drake",
     "email": "nelldrake@digirang.com",
-    "birthDate": "2014-02-06T01:24:02 -02:00",
+    "birthDate": "2014-02-06T01:24:02 ",
     "role": "Admin"
   },
   {
@@ -1252,7 +1252,7 @@
     "firstName": "Lynch",
     "lastName": "Anderson",
     "email": "lynchanderson@digirang.com",
-    "birthDate": "2017-04-25T04:20:33 -03:00",
+    "birthDate": "2017-04-25T04:20:33 ",
     "role": "Admin"
   },
   {
@@ -1260,7 +1260,7 @@
     "firstName": "Mason",
     "lastName": "Hart",
     "email": "masonhart@digirang.com",
-    "birthDate": "2020-10-12T04:00:21 -03:00",
+    "birthDate": "2020-10-12T04:00:21 ",
     "role": "Auditor"
   },
   {
@@ -1268,7 +1268,7 @@
     "firstName": "Hardy",
     "lastName": "Cantu",
     "email": "hardycantu@digirang.com",
-    "birthDate": "2020-11-18T11:27:49 -02:00",
+    "birthDate": "2020-11-18T11:27:49 ",
     "role": "Riskmanager"
   },
   {
@@ -1276,7 +1276,7 @@
     "firstName": "Doyle",
     "lastName": "Dunlap",
     "email": "doyledunlap@digirang.com",
-    "birthDate": "2016-07-09T04:58:18 -03:00",
+    "birthDate": "2016-07-09T04:58:18 ",
     "role": "Riskmanager"
   },
   {
@@ -1284,7 +1284,7 @@
     "firstName": "Harmon",
     "lastName": "Mayer",
     "email": "harmonmayer@digirang.com",
-    "birthDate": "2015-10-20T08:45:40 -03:00",
+    "birthDate": "2015-10-20T08:45:40 ",
     "role": "Admin"
   },
   {
@@ -1292,7 +1292,7 @@
     "firstName": "Ramirez",
     "lastName": "Jacobs",
     "email": "ramirezjacobs@digirang.com",
-    "birthDate": "2016-10-12T08:51:10 -03:00",
+    "birthDate": "2016-10-12T08:51:10 ",
     "role": "Admin"
   },
   {
@@ -1300,7 +1300,7 @@
     "firstName": "Cash",
     "lastName": "Knight",
     "email": "cashknight@digirang.com",
-    "birthDate": "2016-06-23T12:15:41 -03:00",
+    "birthDate": "2016-06-23T12:15:41 ",
     "role": "Riskmanager"
   },
   {
@@ -1308,7 +1308,7 @@
     "firstName": "Mcknight",
     "lastName": "Sears",
     "email": "mcknightsears@digirang.com",
-    "birthDate": "2020-09-25T04:52:29 -03:00",
+    "birthDate": "2020-09-25T04:52:29 ",
     "role": "Admin"
   },
   {
@@ -1316,7 +1316,7 @@
     "firstName": "Slater",
     "lastName": "Kirkland",
     "email": "slaterkirkland@digirang.com",
-    "birthDate": "2020-05-18T11:31:24 -03:00",
+    "birthDate": "2020-05-18T11:31:24 ",
     "role": "Admin"
   },
   {
@@ -1324,7 +1324,7 @@
     "firstName": "Ball",
     "lastName": "Poole",
     "email": "ballpoole@digirang.com",
-    "birthDate": "2018-12-19T01:15:14 -02:00",
+    "birthDate": "2018-12-19T01:15:14 ",
     "role": "Admin"
   },
   {
@@ -1332,7 +1332,7 @@
     "firstName": "Susie",
     "lastName": "Ward",
     "email": "susieward@digirang.com",
-    "birthDate": "2014-03-12T04:27:12 -02:00",
+    "birthDate": "2014-03-12T04:27:12 ",
     "role": "Auditor"
   },
   {
@@ -1340,7 +1340,7 @@
     "firstName": "Magdalena",
     "lastName": "Mckay",
     "email": "magdalenamckay@digirang.com",
-    "birthDate": "2016-07-22T11:40:18 -03:00",
+    "birthDate": "2016-07-22T11:40:18 ",
     "role": "Auditor"
   },
   {
@@ -1348,7 +1348,7 @@
     "firstName": "Rutledge",
     "lastName": "Figueroa",
     "email": "rutledgefigueroa@digirang.com",
-    "birthDate": "2018-01-07T05:39:14 -02:00",
+    "birthDate": "2018-01-07T05:39:14 ",
     "role": "Auditor"
   },
   {
@@ -1356,7 +1356,7 @@
     "firstName": "Delia",
     "lastName": "Kramer",
     "email": "deliakramer@digirang.com",
-    "birthDate": "2019-04-10T10:27:03 -03:00",
+    "birthDate": "2019-04-10T10:27:03 ",
     "role": "Admin"
   },
   {
@@ -1364,7 +1364,7 @@
     "firstName": "Petty",
     "lastName": "Silva",
     "email": "pettysilva@digirang.com",
-    "birthDate": "2020-12-17T05:30:18 -02:00",
+    "birthDate": "2020-12-17T05:30:18 ",
     "role": "Auditor"
   },
   {
@@ -1372,7 +1372,7 @@
     "firstName": "Keri",
     "lastName": "Graham",
     "email": "kerigraham@digirang.com",
-    "birthDate": "2017-05-25T12:23:26 -03:00",
+    "birthDate": "2017-05-25T12:23:26 ",
     "role": "Auditor"
   },
   {
@@ -1380,7 +1380,7 @@
     "firstName": "Bradford",
     "lastName": "Mcgowan",
     "email": "bradfordmcgowan@digirang.com",
-    "birthDate": "2020-02-29T11:19:46 -02:00",
+    "birthDate": "2020-02-29T11:19:46 ",
     "role": "Riskmanager"
   },
   {
@@ -1388,7 +1388,7 @@
     "firstName": "Webster",
     "lastName": "Terry",
     "email": "websterterry@digirang.com",
-    "birthDate": "2016-10-11T09:52:01 -03:00",
+    "birthDate": "2016-10-11T09:52:01 ",
     "role": "Auditor"
   },
   {
@@ -1396,7 +1396,7 @@
     "firstName": "Monica",
     "lastName": "Walters",
     "email": "monicawalters@digirang.com",
-    "birthDate": "2016-02-28T12:20:01 -02:00",
+    "birthDate": "2016-02-28T12:20:01 ",
     "role": "Processexpert"
   },
   {
@@ -1404,7 +1404,7 @@
     "firstName": "Harding",
     "lastName": "Berger",
     "email": "hardingberger@digirang.com",
-    "birthDate": "2015-08-15T03:00:03 -03:00",
+    "birthDate": "2015-08-15T03:00:03 ",
     "role": "Processexpert"
   },
   {
@@ -1412,7 +1412,7 @@
     "firstName": "Ava",
     "lastName": "Mosley",
     "email": "avamosley@digirang.com",
-    "birthDate": "2018-03-28T02:23:01 -03:00",
+    "birthDate": "2018-03-28T02:23:01 ",
     "role": "Processexpert"
   },
   {
@@ -1420,7 +1420,7 @@
     "firstName": "Olsen",
     "lastName": "Blackburn",
     "email": "olsenblackburn@digirang.com",
-    "birthDate": "2016-01-01T03:44:04 -02:00",
+    "birthDate": "2016-01-01T03:44:04 ",
     "role": "Admin"
   },
   {
@@ -1428,7 +1428,7 @@
     "firstName": "Becker",
     "lastName": "Santana",
     "email": "beckersantana@digirang.com",
-    "birthDate": "2019-08-20T07:17:35 -03:00",
+    "birthDate": "2019-08-20T07:17:35 ",
     "role": "Riskmanager"
   },
   {
@@ -1436,7 +1436,7 @@
     "firstName": "Alvarado",
     "lastName": "Mcneil",
     "email": "alvaradomcneil@digirang.com",
-    "birthDate": "2021-08-08T01:39:27 -03:00",
+    "birthDate": "2021-08-08T01:39:27 ",
     "role": "Riskmanager"
   },
   {
@@ -1444,7 +1444,7 @@
     "firstName": "Clemons",
     "lastName": "Clements",
     "email": "clemonsclements@digirang.com",
-    "birthDate": "2017-09-17T04:38:11 -03:00",
+    "birthDate": "2017-09-17T04:38:11 ",
     "role": "Auditor"
   },
   {
@@ -1452,7 +1452,7 @@
     "firstName": "King",
     "lastName": "Bentley",
     "email": "kingbentley@digirang.com",
-    "birthDate": "2018-02-17T08:37:06 -02:00",
+    "birthDate": "2018-02-17T08:37:06 ",
     "role": "Auditor"
   },
   {
@@ -1460,7 +1460,7 @@
     "firstName": "Tricia",
     "lastName": "Dickerson",
     "email": "triciadickerson@digirang.com",
-    "birthDate": "2016-10-25T02:59:16 -03:00",
+    "birthDate": "2016-10-25T02:59:16 ",
     "role": "Riskmanager"
   },
   {
@@ -1468,7 +1468,7 @@
     "firstName": "Maude",
     "lastName": "Gallagher",
     "email": "maudegallagher@digirang.com",
-    "birthDate": "2014-02-11T08:16:01 -02:00",
+    "birthDate": "2014-02-11T08:16:01 ",
     "role": "Riskmanager"
   },
   {
@@ -1476,7 +1476,7 @@
     "firstName": "Nora",
     "lastName": "Lester",
     "email": "noralester@digirang.com",
-    "birthDate": "2015-02-05T12:48:40 -02:00",
+    "birthDate": "2015-02-05T12:48:40 ",
     "role": "Processexpert"
   },
   {
@@ -1484,7 +1484,7 @@
     "firstName": "Trisha",
     "lastName": "Phillips",
     "email": "trishaphillips@digirang.com",
-    "birthDate": "2015-07-28T11:36:51 -03:00",
+    "birthDate": "2015-07-28T11:36:51 ",
     "role": "Riskmanager"
   },
   {
@@ -1492,7 +1492,7 @@
     "firstName": "Connie",
     "lastName": "Gardner",
     "email": "conniegardner@digirang.com",
-    "birthDate": "2016-04-18T12:09:21 -03:00",
+    "birthDate": "2016-04-18T12:09:21 ",
     "role": "Riskmanager"
   },
   {
@@ -1500,7 +1500,7 @@
     "firstName": "Church",
     "lastName": "Albert",
     "email": "churchalbert@digirang.com",
-    "birthDate": "2017-04-23T03:59:02 -03:00",
+    "birthDate": "2017-04-23T03:59:02 ",
     "role": "Riskmanager"
   },
   {
@@ -1508,7 +1508,7 @@
     "firstName": "Lara",
     "lastName": "Montoya",
     "email": "laramontoya@digirang.com",
-    "birthDate": "2016-08-13T07:28:07 -03:00",
+    "birthDate": "2016-08-13T07:28:07 ",
     "role": "Admin"
   },
   {
@@ -1516,7 +1516,7 @@
     "firstName": "Wong",
     "lastName": "Ratliff",
     "email": "wongratliff@digirang.com",
-    "birthDate": "2021-04-29T07:36:03 -03:00",
+    "birthDate": "2021-04-29T07:36:03 ",
     "role": "Processexpert"
   },
   {
@@ -1524,7 +1524,7 @@
     "firstName": "Mccoy",
     "lastName": "Cummings",
     "email": "mccoycummings@digirang.com",
-    "birthDate": "2016-01-01T10:50:35 -02:00",
+    "birthDate": "2016-01-01T10:50:35 ",
     "role": "Admin"
   },
   {
@@ -1532,7 +1532,7 @@
     "firstName": "Carlson",
     "lastName": "Whitley",
     "email": "carlsonwhitley@digirang.com",
-    "birthDate": "2019-01-18T01:11:48 -02:00",
+    "birthDate": "2019-01-18T01:11:48 ",
     "role": "Admin"
   },
   {
@@ -1540,7 +1540,7 @@
     "firstName": "Cecilia",
     "lastName": "Mcdaniel",
     "email": "ceciliamcdaniel@digirang.com",
-    "birthDate": "2020-03-01T02:22:04 -02:00",
+    "birthDate": "2020-03-01T02:22:04 ",
     "role": "Admin"
   },
   {
@@ -1548,7 +1548,7 @@
     "firstName": "Emily",
     "lastName": "Richmond",
     "email": "emilyrichmond@digirang.com",
-    "birthDate": "2019-07-20T09:49:07 -03:00",
+    "birthDate": "2019-07-20T09:49:07 ",
     "role": "Auditor"
   },
   {
@@ -1556,7 +1556,7 @@
     "firstName": "Ina",
     "lastName": "Guthrie",
     "email": "inaguthrie@digirang.com",
-    "birthDate": "2014-09-06T09:56:52 -03:00",
+    "birthDate": "2014-09-06T09:56:52 ",
     "role": "Auditor"
   },
   {
@@ -1564,7 +1564,7 @@
     "firstName": "Cleveland",
     "lastName": "Logan",
     "email": "clevelandlogan@digirang.com",
-    "birthDate": "2019-10-22T04:31:22 -03:00",
+    "birthDate": "2019-10-22T04:31:22 ",
     "role": "Processexpert"
   },
   {
@@ -1572,7 +1572,7 @@
     "firstName": "Lindsay",
     "lastName": "Sexton",
     "email": "lindsaysexton@digirang.com",
-    "birthDate": "2016-05-28T04:30:54 -03:00",
+    "birthDate": "2016-05-28T04:30:54 ",
     "role": "Riskmanager"
   },
   {
@@ -1580,7 +1580,7 @@
     "firstName": "Leonor",
     "lastName": "Crane",
     "email": "leonorcrane@digirang.com",
-    "birthDate": "2020-12-28T01:39:06 -02:00",
+    "birthDate": "2020-12-28T01:39:06 ",
     "role": "Admin"
   },
   {
@@ -1588,7 +1588,7 @@
     "firstName": "Schneider",
     "lastName": "Reid",
     "email": "schneiderreid@digirang.com",
-    "birthDate": "2018-10-01T08:29:11 -03:00",
+    "birthDate": "2018-10-01T08:29:11 ",
     "role": "Admin"
   },
   {
@@ -1596,7 +1596,7 @@
     "firstName": "Lorie",
     "lastName": "Wall",
     "email": "loriewall@digirang.com",
-    "birthDate": "2014-01-05T07:17:20 -02:00",
+    "birthDate": "2014-01-05T07:17:20 ",
     "role": "Auditor"
   },
   {
@@ -1604,7 +1604,7 @@
     "firstName": "Weber",
     "lastName": "Curry",
     "email": "webercurry@digirang.com",
-    "birthDate": "2015-03-11T05:22:09 -02:00",
+    "birthDate": "2015-03-11T05:22:09 ",
     "role": "Processexpert"
   },
   {
@@ -1612,7 +1612,7 @@
     "firstName": "Miriam",
     "lastName": "Saunders",
     "email": "miriamsaunders@digirang.com",
-    "birthDate": "2017-12-11T05:14:20 -02:00",
+    "birthDate": "2017-12-11T05:14:20 ",
     "role": "Admin"
   },
   {
@@ -1620,7 +1620,7 @@
     "firstName": "Ballard",
     "lastName": "Lyons",
     "email": "ballardlyons@digirang.com",
-    "birthDate": "2014-03-23T02:12:34 -02:00",
+    "birthDate": "2014-03-23T02:12:34 ",
     "role": "Auditor"
   },
   {
@@ -1628,7 +1628,7 @@
     "firstName": "Griffin",
     "lastName": "Jefferson",
     "email": "griffinjefferson@digirang.com",
-    "birthDate": "2017-01-29T03:42:45 -02:00",
+    "birthDate": "2017-01-29T03:42:45 ",
     "role": "Processexpert"
   },
   {
@@ -1636,7 +1636,7 @@
     "firstName": "Tucker",
     "lastName": "Douglas",
     "email": "tuckerdouglas@digirang.com",
-    "birthDate": "2019-10-10T06:06:23 -03:00",
+    "birthDate": "2019-10-10T06:06:23 ",
     "role": "Admin"
   },
   {
@@ -1644,7 +1644,7 @@
     "firstName": "Byers",
     "lastName": "Shepard",
     "email": "byersshepard@digirang.com",
-    "birthDate": "2021-05-24T11:36:32 -03:00",
+    "birthDate": "2021-05-24T11:36:32 ",
     "role": "Auditor"
   },
   {
@@ -1652,7 +1652,7 @@
     "firstName": "Summers",
     "lastName": "Abbott",
     "email": "summersabbott@digirang.com",
-    "birthDate": "2019-01-25T09:10:08 -02:00",
+    "birthDate": "2019-01-25T09:10:08 ",
     "role": "Processexpert"
   },
   {
@@ -1660,7 +1660,7 @@
     "firstName": "Robin",
     "lastName": "Juarez",
     "email": "robinjuarez@digirang.com",
-    "birthDate": "2014-06-25T01:06:49 -03:00",
+    "birthDate": "2014-06-25T01:06:49 ",
     "role": "Processexpert"
   },
   {
@@ -1668,7 +1668,7 @@
     "firstName": "Jacqueline",
     "lastName": "Sellers",
     "email": "jacquelinesellers@digirang.com",
-    "birthDate": "2020-09-04T03:07:30 -03:00",
+    "birthDate": "2020-09-04T03:07:30 ",
     "role": "Riskmanager"
   },
   {
@@ -1676,7 +1676,7 @@
     "firstName": "Ada",
     "lastName": "Boyd",
     "email": "adaboyd@digirang.com",
-    "birthDate": "2021-03-23T04:46:29 -02:00",
+    "birthDate": "2021-03-23T04:46:29 ",
     "role": "Riskmanager"
   },
   {
@@ -1684,7 +1684,7 @@
     "firstName": "Maura",
     "lastName": "Woodward",
     "email": "maurawoodward@digirang.com",
-    "birthDate": "2017-11-26T11:20:51 -02:00",
+    "birthDate": "2017-11-26T11:20:51 ",
     "role": "Admin"
   },
   {
@@ -1692,7 +1692,7 @@
     "firstName": "Dianna",
     "lastName": "Oliver",
     "email": "diannaoliver@digirang.com",
-    "birthDate": "2017-06-14T12:49:49 -03:00",
+    "birthDate": "2017-06-14T12:49:49 ",
     "role": "Riskmanager"
   },
   {
@@ -1700,7 +1700,7 @@
     "firstName": "Christy",
     "lastName": "Macdonald",
     "email": "christymacdonald@digirang.com",
-    "birthDate": "2014-12-11T02:44:50 -02:00",
+    "birthDate": "2014-12-11T02:44:50 ",
     "role": "Admin"
   },
   {
@@ -1708,7 +1708,7 @@
     "firstName": "Michael",
     "lastName": "Matthews",
     "email": "michaelmatthews@digirang.com",
-    "birthDate": "2018-01-28T03:49:45 -02:00",
+    "birthDate": "2018-01-28T03:49:45 ",
     "role": "Admin"
   },
   {
@@ -1716,7 +1716,7 @@
     "firstName": "Gladys",
     "lastName": "Nielsen",
     "email": "gladysnielsen@digirang.com",
-    "birthDate": "2018-01-20T01:39:40 -02:00",
+    "birthDate": "2018-01-20T01:39:40 ",
     "role": "Admin"
   },
   {
@@ -1724,7 +1724,7 @@
     "firstName": "Ford",
     "lastName": "Delacruz",
     "email": "forddelacruz@digirang.com",
-    "birthDate": "2018-12-17T07:22:05 -02:00",
+    "birthDate": "2018-12-17T07:22:05 ",
     "role": "Riskmanager"
   },
   {
@@ -1732,7 +1732,7 @@
     "firstName": "Salas",
     "lastName": "Hudson",
     "email": "salashudson@digirang.com",
-    "birthDate": "2015-09-30T05:30:05 -03:00",
+    "birthDate": "2015-09-30T05:30:05 ",
     "role": "Admin"
   },
   {
@@ -1740,7 +1740,7 @@
     "firstName": "Dean",
     "lastName": "Chang",
     "email": "deanchang@digirang.com",
-    "birthDate": "2019-02-17T10:31:59 -02:00",
+    "birthDate": "2019-02-17T10:31:59 ",
     "role": "Riskmanager"
   },
   {
@@ -1748,7 +1748,7 @@
     "firstName": "Araceli",
     "lastName": "Brady",
     "email": "aracelibrady@digirang.com",
-    "birthDate": "2016-11-02T01:48:41 -02:00",
+    "birthDate": "2016-11-02T01:48:41 ",
     "role": "Auditor"
   },
   {
@@ -1756,7 +1756,7 @@
     "firstName": "Karin",
     "lastName": "Garrett",
     "email": "karingarrett@digirang.com",
-    "birthDate": "2019-02-03T03:36:40 -02:00",
+    "birthDate": "2019-02-03T03:36:40 ",
     "role": "Admin"
   },
   {
@@ -1764,7 +1764,7 @@
     "firstName": "Blanche",
     "lastName": "Good",
     "email": "blanchegood@digirang.com",
-    "birthDate": "2020-03-27T07:04:53 -02:00",
+    "birthDate": "2020-03-27T07:04:53 ",
     "role": "Admin"
   },
   {
@@ -1772,7 +1772,7 @@
     "firstName": "Vanessa",
     "lastName": "Arnold",
     "email": "vanessaarnold@digirang.com",
-    "birthDate": "2017-03-03T05:05:29 -02:00",
+    "birthDate": "2017-03-03T05:05:29 ",
     "role": "Admin"
   },
   {
@@ -1780,7 +1780,7 @@
     "firstName": "Anita",
     "lastName": "Mcgee",
     "email": "anitamcgee@digirang.com",
-    "birthDate": "2015-05-05T11:07:31 -03:00",
+    "birthDate": "2015-05-05T11:07:31 ",
     "role": "Admin"
   },
   {
@@ -1788,7 +1788,7 @@
     "firstName": "Leila",
     "lastName": "Wooten",
     "email": "leilawooten@digirang.com",
-    "birthDate": "2017-01-18T03:36:51 -02:00",
+    "birthDate": "2017-01-18T03:36:51 ",
     "role": "Riskmanager"
   },
   {
@@ -1796,7 +1796,7 @@
     "firstName": "Janie",
     "lastName": "Morrison",
     "email": "janiemorrison@digirang.com",
-    "birthDate": "2021-07-11T02:28:57 -03:00",
+    "birthDate": "2021-07-11T02:28:57 ",
     "role": "Processexpert"
   },
   {
@@ -1804,7 +1804,7 @@
     "firstName": "Martina",
     "lastName": "Guy",
     "email": "martinaguy@digirang.com",
-    "birthDate": "2015-04-14T07:38:00 -03:00",
+    "birthDate": "2015-04-14T07:38:00 ",
     "role": "Riskmanager"
   },
   {
@@ -1812,7 +1812,7 @@
     "firstName": "Obrien",
     "lastName": "Harmon",
     "email": "obrienharmon@digirang.com",
-    "birthDate": "2019-06-20T04:14:51 -03:00",
+    "birthDate": "2019-06-20T04:14:51 ",
     "role": "Auditor"
   },
   {
@@ -1820,7 +1820,7 @@
     "firstName": "John",
     "lastName": "Carrillo",
     "email": "johncarrillo@digirang.com",
-    "birthDate": "2020-09-02T07:28:12 -03:00",
+    "birthDate": "2020-09-02T07:28:12 ",
     "role": "Processexpert"
   },
   {
@@ -1828,7 +1828,7 @@
     "firstName": "Sharon",
     "lastName": "Horne",
     "email": "sharonhorne@digirang.com",
-    "birthDate": "2020-08-09T05:41:22 -03:00",
+    "birthDate": "2020-08-09T05:41:22 ",
     "role": "Riskmanager"
   },
   {
@@ -1836,7 +1836,7 @@
     "firstName": "Blackwell",
     "lastName": "Glass",
     "email": "blackwellglass@digirang.com",
-    "birthDate": "2018-01-23T02:56:23 -02:00",
+    "birthDate": "2018-01-23T02:56:23 ",
     "role": "Admin"
   },
   {
@@ -1844,7 +1844,7 @@
     "firstName": "Malone",
     "lastName": "Koch",
     "email": "malonekoch@digirang.com",
-    "birthDate": "2019-05-10T06:50:03 -03:00",
+    "birthDate": "2019-05-10T06:50:03 ",
     "role": "Admin"
   },
   {
@@ -1852,7 +1852,7 @@
     "firstName": "Bridgett",
     "lastName": "George",
     "email": "bridgettgeorge@digirang.com",
-    "birthDate": "2018-03-31T08:17:52 -03:00",
+    "birthDate": "2018-03-31T08:17:52 ",
     "role": "Processexpert"
   },
   {
@@ -1860,7 +1860,7 @@
     "firstName": "Lauri",
     "lastName": "Mayo",
     "email": "laurimayo@digirang.com",
-    "birthDate": "2015-07-19T02:08:55 -03:00",
+    "birthDate": "2015-07-19T02:08:55 ",
     "role": "Riskmanager"
   },
   {
@@ -1868,7 +1868,7 @@
     "firstName": "Nikki",
     "lastName": "Richards",
     "email": "nikkirichards@digirang.com",
-    "birthDate": "2017-07-28T08:00:36 -03:00",
+    "birthDate": "2017-07-28T08:00:36 ",
     "role": "Riskmanager"
   },
   {
@@ -1876,7 +1876,7 @@
     "firstName": "Wilma",
     "lastName": "Atkinson",
     "email": "wilmaatkinson@digirang.com",
-    "birthDate": "2014-11-10T06:11:34 -02:00",
+    "birthDate": "2014-11-10T06:11:34 ",
     "role": "Riskmanager"
   },
   {
@@ -1884,7 +1884,7 @@
     "firstName": "Caldwell",
     "lastName": "Porter",
     "email": "caldwellporter@digirang.com",
-    "birthDate": "2020-07-02T02:24:04 -03:00",
+    "birthDate": "2020-07-02T02:24:04 ",
     "role": "Admin"
   },
   {
@@ -1892,7 +1892,7 @@
     "firstName": "Soto",
     "lastName": "Acevedo",
     "email": "sotoacevedo@digirang.com",
-    "birthDate": "2019-11-29T06:32:29 -02:00",
+    "birthDate": "2019-11-29T06:32:29 ",
     "role": "Processexpert"
   },
   {
@@ -1900,7 +1900,7 @@
     "firstName": "Peggy",
     "lastName": "Lindsay",
     "email": "peggylindsay@digirang.com",
-    "birthDate": "2021-04-04T01:58:38 -03:00",
+    "birthDate": "2021-04-04T01:58:38 ",
     "role": "Admin"
   },
   {
@@ -1908,7 +1908,7 @@
     "firstName": "Suarez",
     "lastName": "Christian",
     "email": "suarezchristian@digirang.com",
-    "birthDate": "2014-10-11T05:11:44 -03:00",
+    "birthDate": "2014-10-11T05:11:44 ",
     "role": "Admin"
   },
   {
@@ -1916,7 +1916,7 @@
     "firstName": "Alissa",
     "lastName": "Norman",
     "email": "alissanorman@digirang.com",
-    "birthDate": "2017-07-18T04:24:40 -03:00",
+    "birthDate": "2017-07-18T04:24:40 ",
     "role": "Admin"
   },
   {
@@ -1924,7 +1924,7 @@
     "firstName": "Taylor",
     "lastName": "Randall",
     "email": "taylorrandall@digirang.com",
-    "birthDate": "2014-04-11T01:09:02 -03:00",
+    "birthDate": "2014-04-11T01:09:02 ",
     "role": "Processexpert"
   },
   {
@@ -1932,7 +1932,7 @@
     "firstName": "Bowers",
     "lastName": "Suarez",
     "email": "bowerssuarez@digirang.com",
-    "birthDate": "2019-10-18T05:21:13 -03:00",
+    "birthDate": "2019-10-18T05:21:13 ",
     "role": "Admin"
   },
   {
@@ -1940,7 +1940,7 @@
     "firstName": "Lucille",
     "lastName": "Mendoza",
     "email": "lucillemendoza@digirang.com",
-    "birthDate": "2017-02-06T02:22:48 -02:00",
+    "birthDate": "2017-02-06T02:22:48 ",
     "role": "Auditor"
   },
   {
@@ -1948,7 +1948,7 @@
     "firstName": "Alta",
     "lastName": "Forbes",
     "email": "altaforbes@digirang.com",
-    "birthDate": "2014-01-30T03:05:18 -02:00",
+    "birthDate": "2014-01-30T03:05:18 ",
     "role": "Riskmanager"
   },
   {
@@ -1956,7 +1956,7 @@
     "firstName": "Mercedes",
     "lastName": "Chaney",
     "email": "mercedeschaney@digirang.com",
-    "birthDate": "2021-06-29T03:36:53 -03:00",
+    "birthDate": "2021-06-29T03:36:53 ",
     "role": "Admin"
   },
   {
@@ -1964,7 +1964,7 @@
     "firstName": "Rodriguez",
     "lastName": "Carr",
     "email": "rodriguezcarr@digirang.com",
-    "birthDate": "2014-05-10T04:18:18 -03:00",
+    "birthDate": "2014-05-10T04:18:18 ",
     "role": "Processexpert"
   },
   {
@@ -1972,7 +1972,7 @@
     "firstName": "Stefanie",
     "lastName": "Shaw",
     "email": "stefanieshaw@digirang.com",
-    "birthDate": "2017-12-23T01:53:30 -02:00",
+    "birthDate": "2017-12-23T01:53:30 ",
     "role": "Admin"
   },
   {
@@ -1980,7 +1980,7 @@
     "firstName": "Baxter",
     "lastName": "Castillo",
     "email": "baxtercastillo@digirang.com",
-    "birthDate": "2018-04-05T08:25:01 -03:00",
+    "birthDate": "2018-04-05T08:25:01 ",
     "role": "Auditor"
   },
   {
@@ -1988,7 +1988,7 @@
     "firstName": "Gabrielle",
     "lastName": "Rutledge",
     "email": "gabriellerutledge@digirang.com",
-    "birthDate": "2018-06-14T05:08:05 -03:00",
+    "birthDate": "2018-06-14T05:08:05 ",
     "role": "Riskmanager"
   },
   {
@@ -1996,7 +1996,7 @@
     "firstName": "Vasquez",
     "lastName": "Dale",
     "email": "vasquezdale@digirang.com",
-    "birthDate": "2016-08-03T03:49:22 -03:00",
+    "birthDate": "2016-08-03T03:49:22 ",
     "role": "Processexpert"
   },
   {
@@ -2004,7 +2004,7 @@
     "firstName": "Oneal",
     "lastName": "Zimmerman",
     "email": "onealzimmerman@digirang.com",
-    "birthDate": "2018-12-03T09:02:42 -02:00",
+    "birthDate": "2018-12-03T09:02:42 ",
     "role": "Processexpert"
   },
   {
@@ -2012,7 +2012,7 @@
     "firstName": "Clarice",
     "lastName": "Weeks",
     "email": "clariceweeks@digirang.com",
-    "birthDate": "2020-02-02T07:02:39 -02:00",
+    "birthDate": "2020-02-02T07:02:39 ",
     "role": "Riskmanager"
   },
   {
@@ -2020,7 +2020,7 @@
     "firstName": "Woodard",
     "lastName": "Hopper",
     "email": "woodardhopper@digirang.com",
-    "birthDate": "2018-08-01T08:06:07 -03:00",
+    "birthDate": "2018-08-01T08:06:07 ",
     "role": "Processexpert"
   },
   {
@@ -2028,7 +2028,7 @@
     "firstName": "Bright",
     "lastName": "Reilly",
     "email": "brightreilly@digirang.com",
-    "birthDate": "2020-06-20T07:15:59 -03:00",
+    "birthDate": "2020-06-20T07:15:59 ",
     "role": "Admin"
   },
   {
@@ -2036,7 +2036,7 @@
     "firstName": "Erna",
     "lastName": "Nichols",
     "email": "ernanichols@digirang.com",
-    "birthDate": "2021-10-01T11:55:27 -03:00",
+    "birthDate": "2021-10-01T11:55:27 ",
     "role": "Auditor"
   },
   {
@@ -2044,7 +2044,7 @@
     "firstName": "Davidson",
     "lastName": "Cardenas",
     "email": "davidsoncardenas@digirang.com",
-    "birthDate": "2017-04-10T11:11:08 -03:00",
+    "birthDate": "2017-04-10T11:11:08 ",
     "role": "Admin"
   },
   {
@@ -2052,7 +2052,7 @@
     "firstName": "Le",
     "lastName": "Buckner",
     "email": "lebuckner@digirang.com",
-    "birthDate": "2016-11-17T08:32:18 -02:00",
+    "birthDate": "2016-11-17T08:32:18 ",
     "role": "Admin"
   },
   {
@@ -2060,7 +2060,7 @@
     "firstName": "Rivers",
     "lastName": "Knowles",
     "email": "riversknowles@digirang.com",
-    "birthDate": "2014-10-22T12:14:16 -03:00",
+    "birthDate": "2014-10-22T12:14:16 ",
     "role": "Admin"
   },
   {
@@ -2068,7 +2068,7 @@
     "firstName": "Sonia",
     "lastName": "Ellison",
     "email": "soniaellison@digirang.com",
-    "birthDate": "2017-05-19T05:10:42 -03:00",
+    "birthDate": "2017-05-19T05:10:42 ",
     "role": "Auditor"
   },
   {
@@ -2076,7 +2076,7 @@
     "firstName": "Mcmillan",
     "lastName": "Gallegos",
     "email": "mcmillangallegos@digirang.com",
-    "birthDate": "2017-02-12T04:12:05 -02:00",
+    "birthDate": "2017-02-12T04:12:05 ",
     "role": "Admin"
   },
   {
@@ -2084,7 +2084,7 @@
     "firstName": "Jami",
     "lastName": "Benson",
     "email": "jamibenson@digirang.com",
-    "birthDate": "2019-04-25T05:44:21 -03:00",
+    "birthDate": "2019-04-25T05:44:21 ",
     "role": "Processexpert"
   },
   {
@@ -2092,7 +2092,7 @@
     "firstName": "Farmer",
     "lastName": "Doyle",
     "email": "farmerdoyle@digirang.com",
-    "birthDate": "2020-05-10T07:37:38 -03:00",
+    "birthDate": "2020-05-10T07:37:38 ",
     "role": "Riskmanager"
   },
   {
@@ -2100,7 +2100,7 @@
     "firstName": "Lenore",
     "lastName": "Booth",
     "email": "lenorebooth@digirang.com",
-    "birthDate": "2015-11-20T09:50:05 -02:00",
+    "birthDate": "2015-11-20T09:50:05 ",
     "role": "Processexpert"
   },
   {
@@ -2108,7 +2108,7 @@
     "firstName": "Jackie",
     "lastName": "Humphrey",
     "email": "jackiehumphrey@digirang.com",
-    "birthDate": "2016-09-08T12:39:42 -03:00",
+    "birthDate": "2016-09-08T12:39:42 ",
     "role": "Auditor"
   },
   {
@@ -2116,7 +2116,7 @@
     "firstName": "Olson",
     "lastName": "Oneal",
     "email": "olsononeal@digirang.com",
-    "birthDate": "2019-08-21T03:12:09 -03:00",
+    "birthDate": "2019-08-21T03:12:09 ",
     "role": "Admin"
   },
   {
@@ -2124,7 +2124,7 @@
     "firstName": "Delgado",
     "lastName": "Zamora",
     "email": "delgadozamora@digirang.com",
-    "birthDate": "2015-05-26T02:50:09 -03:00",
+    "birthDate": "2015-05-26T02:50:09 ",
     "role": "Riskmanager"
   },
   {
@@ -2132,7 +2132,7 @@
     "firstName": "Gail",
     "lastName": "Moore",
     "email": "gailmoore@digirang.com",
-    "birthDate": "2014-02-12T10:16:09 -02:00",
+    "birthDate": "2014-02-12T10:16:09 ",
     "role": "Auditor"
   },
   {
@@ -2140,7 +2140,7 @@
     "firstName": "Ashlee",
     "lastName": "Neal",
     "email": "ashleeneal@digirang.com",
-    "birthDate": "2017-10-13T03:51:46 -03:00",
+    "birthDate": "2017-10-13T03:51:46 ",
     "role": "Processexpert"
   },
   {
@@ -2148,7 +2148,7 @@
     "firstName": "Shelby",
     "lastName": "Chandler",
     "email": "shelbychandler@digirang.com",
-    "birthDate": "2017-07-02T11:33:40 -03:00",
+    "birthDate": "2017-07-02T11:33:40 ",
     "role": "Admin"
   },
   {
@@ -2156,7 +2156,7 @@
     "firstName": "Lakeisha",
     "lastName": "Sosa",
     "email": "lakeishasosa@digirang.com",
-    "birthDate": "2019-12-09T01:53:18 -02:00",
+    "birthDate": "2019-12-09T01:53:18 ",
     "role": "Processexpert"
   },
   {
@@ -2164,7 +2164,7 @@
     "firstName": "Greene",
     "lastName": "Delgado",
     "email": "greenedelgado@digirang.com",
-    "birthDate": "2020-12-11T03:04:44 -02:00",
+    "birthDate": "2020-12-11T03:04:44 ",
     "role": "Admin"
   },
   {
@@ -2172,7 +2172,7 @@
     "firstName": "Warner",
     "lastName": "Santos",
     "email": "warnersantos@digirang.com",
-    "birthDate": "2017-08-31T01:48:05 -03:00",
+    "birthDate": "2017-08-31T01:48:05 ",
     "role": "Admin"
   },
   {
@@ -2180,7 +2180,7 @@
     "firstName": "Elliott",
     "lastName": "Gutierrez",
     "email": "elliottgutierrez@digirang.com",
-    "birthDate": "2019-08-25T09:11:36 -03:00",
+    "birthDate": "2019-08-25T09:11:36 ",
     "role": "Processexpert"
   },
   {
@@ -2188,7 +2188,7 @@
     "firstName": "Grant",
     "lastName": "Fuentes",
     "email": "grantfuentes@digirang.com",
-    "birthDate": "2020-08-17T11:11:50 -03:00",
+    "birthDate": "2020-08-17T11:11:50 ",
     "role": "Auditor"
   },
   {
@@ -2196,7 +2196,7 @@
     "firstName": "Maxine",
     "lastName": "Campbell",
     "email": "maxinecampbell@digirang.com",
-    "birthDate": "2018-07-27T04:29:34 -03:00",
+    "birthDate": "2018-07-27T04:29:34 ",
     "role": "Admin"
   },
   {
@@ -2204,7 +2204,7 @@
     "firstName": "Regina",
     "lastName": "Ramos",
     "email": "reginaramos@digirang.com",
-    "birthDate": "2021-09-20T01:08:56 -03:00",
+    "birthDate": "2021-09-20T01:08:56 ",
     "role": "Admin"
   },
   {
@@ -2212,7 +2212,7 @@
     "firstName": "Jerri",
     "lastName": "Myers",
     "email": "jerrimyers@digirang.com",
-    "birthDate": "2017-05-26T12:39:21 -03:00",
+    "birthDate": "2017-05-26T12:39:21 ",
     "role": "Auditor"
   },
   {
@@ -2220,7 +2220,7 @@
     "firstName": "Burris",
     "lastName": "Bowers",
     "email": "burrisbowers@digirang.com",
-    "birthDate": "2021-06-11T07:52:28 -03:00",
+    "birthDate": "2021-06-11T07:52:28 ",
     "role": "Riskmanager"
   },
   {
@@ -2228,7 +2228,7 @@
     "firstName": "Deanna",
     "lastName": "Hyde",
     "email": "deannahyde@digirang.com",
-    "birthDate": "2020-11-25T09:14:41 -02:00",
+    "birthDate": "2020-11-25T09:14:41 ",
     "role": "Riskmanager"
   },
   {
@@ -2236,7 +2236,7 @@
     "firstName": "Sherri",
     "lastName": "Fowler",
     "email": "sherrifowler@digirang.com",
-    "birthDate": "2020-03-06T11:59:40 -02:00",
+    "birthDate": "2020-03-06T11:59:40 ",
     "role": "Riskmanager"
   },
   {
@@ -2244,7 +2244,7 @@
     "firstName": "Ella",
     "lastName": "Manning",
     "email": "ellamanning@digirang.com",
-    "birthDate": "2020-05-07T05:27:10 -03:00",
+    "birthDate": "2020-05-07T05:27:10 ",
     "role": "Riskmanager"
   },
   {
@@ -2252,7 +2252,7 @@
     "firstName": "Yvette",
     "lastName": "Henderson",
     "email": "yvettehenderson@digirang.com",
-    "birthDate": "2021-01-07T08:52:48 -02:00",
+    "birthDate": "2021-01-07T08:52:48 ",
     "role": "Admin"
   },
   {
@@ -2260,7 +2260,7 @@
     "firstName": "Maynard",
     "lastName": "Salas",
     "email": "maynardsalas@digirang.com",
-    "birthDate": "2019-06-26T11:35:16 -03:00",
+    "birthDate": "2019-06-26T11:35:16 ",
     "role": "Admin"
   },
   {
@@ -2268,7 +2268,7 @@
     "firstName": "Elva",
     "lastName": "Foley",
     "email": "elvafoley@digirang.com",
-    "birthDate": "2020-08-31T08:28:13 -03:00",
+    "birthDate": "2020-08-31T08:28:13 ",
     "role": "Auditor"
   },
   {
@@ -2276,7 +2276,7 @@
     "firstName": "Marie",
     "lastName": "Barlow",
     "email": "mariebarlow@digirang.com",
-    "birthDate": "2017-03-02T10:01:02 -02:00",
+    "birthDate": "2017-03-02T10:01:02 ",
     "role": "Processexpert"
   },
   {
@@ -2284,7 +2284,7 @@
     "firstName": "Stanley",
     "lastName": "Nguyen",
     "email": "stanleynguyen@digirang.com",
-    "birthDate": "2019-12-27T10:53:01 -02:00",
+    "birthDate": "2019-12-27T10:53:01 ",
     "role": "Riskmanager"
   },
   {
@@ -2292,7 +2292,7 @@
     "firstName": "Austin",
     "lastName": "Warren",
     "email": "austinwarren@digirang.com",
-    "birthDate": "2017-11-13T08:28:01 -02:00",
+    "birthDate": "2017-11-13T08:28:01 ",
     "role": "Auditor"
   },
   {
@@ -2300,7 +2300,7 @@
     "firstName": "Moody",
     "lastName": "Cruz",
     "email": "moodycruz@digirang.com",
-    "birthDate": "2020-11-20T05:30:21 -02:00",
+    "birthDate": "2020-11-20T05:30:21 ",
     "role": "Riskmanager"
   },
   {
@@ -2308,7 +2308,7 @@
     "firstName": "Karla",
     "lastName": "Beach",
     "email": "karlabeach@digirang.com",
-    "birthDate": "2021-01-09T08:19:46 -02:00",
+    "birthDate": "2021-01-09T08:19:46 ",
     "role": "Riskmanager"
   },
   {
@@ -2316,7 +2316,7 @@
     "firstName": "Delores",
     "lastName": "Bernard",
     "email": "deloresbernard@digirang.com",
-    "birthDate": "2020-09-04T04:10:22 -03:00",
+    "birthDate": "2020-09-04T04:10:22 ",
     "role": "Auditor"
   },
   {
@@ -2324,7 +2324,7 @@
     "firstName": "Jefferson",
     "lastName": "Walter",
     "email": "jeffersonwalter@digirang.com",
-    "birthDate": "2019-06-23T12:04:13 -03:00",
+    "birthDate": "2019-06-23T12:04:13 ",
     "role": "Admin"
   },
   {
@@ -2332,7 +2332,7 @@
     "firstName": "Frieda",
     "lastName": "Wolf",
     "email": "friedawolf@digirang.com",
-    "birthDate": "2014-12-30T06:53:29 -02:00",
+    "birthDate": "2014-12-30T06:53:29 ",
     "role": "Processexpert"
   },
   {
@@ -2340,7 +2340,7 @@
     "firstName": "Ratliff",
     "lastName": "Wagner",
     "email": "ratliffwagner@digirang.com",
-    "birthDate": "2014-11-10T09:02:16 -02:00",
+    "birthDate": "2014-11-10T09:02:16 ",
     "role": "Riskmanager"
   },
   {
@@ -2348,7 +2348,7 @@
     "firstName": "Palmer",
     "lastName": "Spencer",
     "email": "palmerspencer@digirang.com",
-    "birthDate": "2016-08-23T06:31:12 -03:00",
+    "birthDate": "2016-08-23T06:31:12 ",
     "role": "Auditor"
   },
   {
@@ -2356,7 +2356,7 @@
     "firstName": "Camacho",
     "lastName": "Nelson",
     "email": "camachonelson@digirang.com",
-    "birthDate": "2014-05-22T04:17:24 -03:00",
+    "birthDate": "2014-05-22T04:17:24 ",
     "role": "Riskmanager"
   },
   {
@@ -2364,7 +2364,7 @@
     "firstName": "Tillman",
     "lastName": "Jennings",
     "email": "tillmanjennings@digirang.com",
-    "birthDate": "2017-10-15T05:37:55 -03:00",
+    "birthDate": "2017-10-15T05:37:55 ",
     "role": "Riskmanager"
   },
   {
@@ -2372,7 +2372,7 @@
     "firstName": "Adams",
     "lastName": "Bullock",
     "email": "adamsbullock@digirang.com",
-    "birthDate": "2018-02-05T09:37:55 -02:00",
+    "birthDate": "2018-02-05T09:37:55 ",
     "role": "Riskmanager"
   },
   {
@@ -2380,7 +2380,7 @@
     "firstName": "Larson",
     "lastName": "Sparks",
     "email": "larsonsparks@digirang.com",
-    "birthDate": "2020-03-13T04:37:03 -02:00",
+    "birthDate": "2020-03-13T04:37:03 ",
     "role": "Riskmanager"
   },
   {
@@ -2388,7 +2388,7 @@
     "firstName": "Millicent",
     "lastName": "Rocha",
     "email": "millicentrocha@digirang.com",
-    "birthDate": "2018-07-27T06:58:01 -03:00",
+    "birthDate": "2018-07-27T06:58:01 ",
     "role": "Riskmanager"
   },
   {
@@ -2396,7 +2396,7 @@
     "firstName": "Keisha",
     "lastName": "Aguilar",
     "email": "keishaaguilar@digirang.com",
-    "birthDate": "2018-10-14T01:55:38 -03:00",
+    "birthDate": "2018-10-14T01:55:38 ",
     "role": "Riskmanager"
   },
   {
@@ -2404,7 +2404,7 @@
     "firstName": "Tamara",
     "lastName": "Wheeler",
     "email": "tamarawheeler@digirang.com",
-    "birthDate": "2017-04-10T11:47:10 -03:00",
+    "birthDate": "2017-04-10T11:47:10 ",
     "role": "Admin"
   },
   {
@@ -2412,7 +2412,7 @@
     "firstName": "Dorothea",
     "lastName": "Dean",
     "email": "dorotheadean@digirang.com",
-    "birthDate": "2016-03-06T06:25:56 -02:00",
+    "birthDate": "2016-03-06T06:25:56 ",
     "role": "Auditor"
   },
   {
@@ -2420,7 +2420,7 @@
     "firstName": "Jeanine",
     "lastName": "Mckenzie",
     "email": "jeaninemckenzie@digirang.com",
-    "birthDate": "2017-08-18T04:26:29 -03:00",
+    "birthDate": "2017-08-18T04:26:29 ",
     "role": "Admin"
   },
   {
@@ -2428,7 +2428,7 @@
     "firstName": "Natasha",
     "lastName": "Cunningham",
     "email": "natashacunningham@digirang.com",
-    "birthDate": "2020-03-03T08:02:29 -02:00",
+    "birthDate": "2020-03-03T08:02:29 ",
     "role": "Auditor"
   },
   {
@@ -2436,7 +2436,7 @@
     "firstName": "Nadine",
     "lastName": "Banks",
     "email": "nadinebanks@digirang.com",
-    "birthDate": "2019-03-21T06:43:52 -02:00",
+    "birthDate": "2019-03-21T06:43:52 ",
     "role": "Riskmanager"
   },
   {
@@ -2444,7 +2444,7 @@
     "firstName": "Mable",
     "lastName": "Leblanc",
     "email": "mableleblanc@digirang.com",
-    "birthDate": "2019-03-19T08:17:24 -02:00",
+    "birthDate": "2019-03-19T08:17:24 ",
     "role": "Riskmanager"
   },
   {
@@ -2452,7 +2452,7 @@
     "firstName": "Evangeline",
     "lastName": "Collier",
     "email": "evangelinecollier@digirang.com",
-    "birthDate": "2014-06-15T02:37:58 -03:00",
+    "birthDate": "2014-06-15T02:37:58 ",
     "role": "Riskmanager"
   },
   {
@@ -2460,7 +2460,7 @@
     "firstName": "Terra",
     "lastName": "Petersen",
     "email": "terrapetersen@digirang.com",
-    "birthDate": "2019-12-16T06:48:55 -02:00",
+    "birthDate": "2019-12-16T06:48:55 ",
     "role": "Riskmanager"
   },
   {
@@ -2468,7 +2468,7 @@
     "firstName": "Bettie",
     "lastName": "Riley",
     "email": "bettieriley@digirang.com",
-    "birthDate": "2014-11-02T07:19:22 -02:00",
+    "birthDate": "2014-11-02T07:19:22 ",
     "role": "Auditor"
   },
   {
@@ -2476,7 +2476,7 @@
     "firstName": "Sally",
     "lastName": "Orr",
     "email": "sallyorr@digirang.com",
-    "birthDate": "2019-04-08T06:17:21 -03:00",
+    "birthDate": "2019-04-08T06:17:21 ",
     "role": "Auditor"
   },
   {
@@ -2484,7 +2484,7 @@
     "firstName": "Wilson",
     "lastName": "Shields",
     "email": "wilsonshields@digirang.com",
-    "birthDate": "2020-03-11T07:29:00 -02:00",
+    "birthDate": "2020-03-11T07:29:00 ",
     "role": "Riskmanager"
   },
   {
@@ -2492,7 +2492,7 @@
     "firstName": "Antonia",
     "lastName": "Leon",
     "email": "antonialeon@digirang.com",
-    "birthDate": "2019-10-31T10:07:31 -02:00",
+    "birthDate": "2019-10-31T10:07:31 ",
     "role": "Auditor"
   },
   {
@@ -2500,7 +2500,7 @@
     "firstName": "Rae",
     "lastName": "Flores",
     "email": "raeflores@digirang.com",
-    "birthDate": "2019-04-20T06:40:20 -03:00",
+    "birthDate": "2019-04-20T06:40:20 ",
     "role": "Processexpert"
   },
   {
@@ -2508,7 +2508,7 @@
     "firstName": "Giles",
     "lastName": "Pruitt",
     "email": "gilespruitt@digirang.com",
-    "birthDate": "2014-06-15T09:59:03 -03:00",
+    "birthDate": "2014-06-15T09:59:03 ",
     "role": "Riskmanager"
   },
   {
@@ -2516,7 +2516,7 @@
     "firstName": "Koch",
     "lastName": "Newton",
     "email": "kochnewton@digirang.com",
-    "birthDate": "2016-09-14T09:07:35 -03:00",
+    "birthDate": "2016-09-14T09:07:35 ",
     "role": "Auditor"
   },
   {
@@ -2524,7 +2524,7 @@
     "firstName": "Key",
     "lastName": "Petty",
     "email": "keypetty@digirang.com",
-    "birthDate": "2014-10-29T02:04:03 -02:00",
+    "birthDate": "2014-10-29T02:04:03 ",
     "role": "Auditor"
   },
   {
@@ -2532,7 +2532,7 @@
     "firstName": "Annmarie",
     "lastName": "Reese",
     "email": "annmariereese@digirang.com",
-    "birthDate": "2017-08-15T01:53:37 -03:00",
+    "birthDate": "2017-08-15T01:53:37 ",
     "role": "Processexpert"
   },
   {
@@ -2540,7 +2540,7 @@
     "firstName": "Faith",
     "lastName": "Alford",
     "email": "faithalford@digirang.com",
-    "birthDate": "2016-04-11T01:46:15 -03:00",
+    "birthDate": "2016-04-11T01:46:15 ",
     "role": "Auditor"
   },
   {
@@ -2548,7 +2548,7 @@
     "firstName": "Lucinda",
     "lastName": "Vargas",
     "email": "lucindavargas@digirang.com",
-    "birthDate": "2021-09-30T06:03:51 -03:00",
+    "birthDate": "2021-09-30T06:03:51 ",
     "role": "Processexpert"
   },
   {
@@ -2556,7 +2556,7 @@
     "firstName": "Reynolds",
     "lastName": "Cotton",
     "email": "reynoldscotton@digirang.com",
-    "birthDate": "2021-02-02T10:51:17 -02:00",
+    "birthDate": "2021-02-02T10:51:17 ",
     "role": "Auditor"
   },
   {
@@ -2564,7 +2564,7 @@
     "firstName": "Booker",
     "lastName": "Case",
     "email": "bookercase@digirang.com",
-    "birthDate": "2020-07-13T09:12:07 -03:00",
+    "birthDate": "2020-07-13T09:12:07 ",
     "role": "Auditor"
   },
   {
@@ -2572,7 +2572,7 @@
     "firstName": "Jodi",
     "lastName": "Nicholson",
     "email": "jodinicholson@digirang.com",
-    "birthDate": "2017-12-16T01:03:29 -02:00",
+    "birthDate": "2017-12-16T01:03:29 ",
     "role": "Processexpert"
   },
   {
@@ -2580,7 +2580,7 @@
     "firstName": "Nita",
     "lastName": "Boyle",
     "email": "nitaboyle@digirang.com",
-    "birthDate": "2014-09-14T07:19:20 -03:00",
+    "birthDate": "2014-09-14T07:19:20 ",
     "role": "Admin"
   },
   {
@@ -2588,7 +2588,7 @@
     "firstName": "Eugenia",
     "lastName": "Cole",
     "email": "eugeniacole@digirang.com",
-    "birthDate": "2015-11-20T09:45:53 -02:00",
+    "birthDate": "2015-11-20T09:45:53 ",
     "role": "Processexpert"
   },
   {
@@ -2596,7 +2596,7 @@
     "firstName": "Joy",
     "lastName": "Tanner",
     "email": "joytanner@digirang.com",
-    "birthDate": "2016-01-02T05:25:15 -02:00",
+    "birthDate": "2016-01-02T05:25:15 ",
     "role": "Processexpert"
   },
   {
@@ -2604,7 +2604,7 @@
     "firstName": "Wise",
     "lastName": "Garza",
     "email": "wisegarza@digirang.com",
-    "birthDate": "2017-06-25T05:08:34 -03:00",
+    "birthDate": "2017-06-25T05:08:34 ",
     "role": "Riskmanager"
   },
   {
@@ -2612,7 +2612,7 @@
     "firstName": "Clare",
     "lastName": "Farley",
     "email": "clarefarley@digirang.com",
-    "birthDate": "2015-02-10T04:43:23 -02:00",
+    "birthDate": "2015-02-10T04:43:23 ",
     "role": "Processexpert"
   },
   {
@@ -2620,7 +2620,7 @@
     "firstName": "Veronica",
     "lastName": "Peck",
     "email": "veronicapeck@digirang.com",
-    "birthDate": "2014-11-21T08:57:29 -02:00",
+    "birthDate": "2014-11-21T08:57:29 ",
     "role": "Processexpert"
   },
   {
@@ -2628,7 +2628,7 @@
     "firstName": "Hayes",
     "lastName": "Stout",
     "email": "hayesstout@digirang.com",
-    "birthDate": "2018-04-28T06:03:13 -03:00",
+    "birthDate": "2018-04-28T06:03:13 ",
     "role": "Admin"
   },
   {
@@ -2636,7 +2636,7 @@
     "firstName": "Knight",
     "lastName": "Casey",
     "email": "knightcasey@digirang.com",
-    "birthDate": "2020-09-10T06:14:06 -03:00",
+    "birthDate": "2020-09-10T06:14:06 ",
     "role": "Riskmanager"
   },
   {
@@ -2644,7 +2644,7 @@
     "firstName": "Sophia",
     "lastName": "Horn",
     "email": "sophiahorn@digirang.com",
-    "birthDate": "2014-02-28T07:49:56 -02:00",
+    "birthDate": "2014-02-28T07:49:56 ",
     "role": "Admin"
   },
   {
@@ -2652,7 +2652,7 @@
     "firstName": "Cora",
     "lastName": "Meyer",
     "email": "corameyer@digirang.com",
-    "birthDate": "2014-10-28T11:56:22 -02:00",
+    "birthDate": "2014-10-28T11:56:22 ",
     "role": "Admin"
   },
   {
@@ -2660,7 +2660,7 @@
     "firstName": "Sue",
     "lastName": "Tate",
     "email": "suetate@digirang.com",
-    "birthDate": "2020-12-12T02:59:45 -02:00",
+    "birthDate": "2020-12-12T02:59:45 ",
     "role": "Riskmanager"
   },
   {
@@ -2668,7 +2668,7 @@
     "firstName": "Walters",
     "lastName": "Pierce",
     "email": "walterspierce@digirang.com",
-    "birthDate": "2014-02-01T02:22:23 -02:00",
+    "birthDate": "2014-02-01T02:22:23 ",
     "role": "Processexpert"
   },
   {
@@ -2676,7 +2676,7 @@
     "firstName": "Franks",
     "lastName": "Wyatt",
     "email": "frankswyatt@digirang.com",
-    "birthDate": "2018-10-26T11:56:09 -03:00",
+    "birthDate": "2018-10-26T11:56:09 ",
     "role": "Processexpert"
   },
   {
@@ -2684,7 +2684,7 @@
     "firstName": "Rose",
     "lastName": "Frazier",
     "email": "rosefrazier@digirang.com",
-    "birthDate": "2020-11-01T03:06:55 -02:00",
+    "birthDate": "2020-11-01T03:06:55 ",
     "role": "Admin"
   },
   {
@@ -2692,7 +2692,7 @@
     "firstName": "Walsh",
     "lastName": "Dyer",
     "email": "walshdyer@digirang.com",
-    "birthDate": "2019-11-28T04:04:15 -02:00",
+    "birthDate": "2019-11-28T04:04:15 ",
     "role": "Riskmanager"
   },
   {
@@ -2700,7 +2700,7 @@
     "firstName": "Russo",
     "lastName": "Tucker",
     "email": "russotucker@digirang.com",
-    "birthDate": "2018-10-16T07:00:57 -03:00",
+    "birthDate": "2018-10-16T07:00:57 ",
     "role": "Processexpert"
   },
   {
@@ -2708,7 +2708,7 @@
     "firstName": "Candace",
     "lastName": "Pearson",
     "email": "candacepearson@digirang.com",
-    "birthDate": "2017-08-03T04:36:11 -03:00",
+    "birthDate": "2017-08-03T04:36:11 ",
     "role": "Auditor"
   },
   {
@@ -2716,7 +2716,7 @@
     "firstName": "Angeline",
     "lastName": "Mccoy",
     "email": "angelinemccoy@digirang.com",
-    "birthDate": "2020-12-10T07:37:10 -02:00",
+    "birthDate": "2020-12-10T07:37:10 ",
     "role": "Admin"
   },
   {
@@ -2724,7 +2724,7 @@
     "firstName": "Cruz",
     "lastName": "Buckley",
     "email": "cruzbuckley@digirang.com",
-    "birthDate": "2020-03-11T02:22:25 -02:00",
+    "birthDate": "2020-03-11T02:22:25 ",
     "role": "Admin"
   },
   {
@@ -2732,7 +2732,7 @@
     "firstName": "Crane",
     "lastName": "Mccarthy",
     "email": "cranemccarthy@digirang.com",
-    "birthDate": "2021-02-05T11:04:28 -02:00",
+    "birthDate": "2021-02-05T11:04:28 ",
     "role": "Riskmanager"
   },
   {
@@ -2740,7 +2740,7 @@
     "firstName": "Hodge",
     "lastName": "Bennett",
     "email": "hodgebennett@digirang.com",
-    "birthDate": "2015-01-18T04:31:59 -02:00",
+    "birthDate": "2015-01-18T04:31:59 ",
     "role": "Admin"
   },
   {
@@ -2748,7 +2748,7 @@
     "firstName": "Bryant",
     "lastName": "Fleming",
     "email": "bryantfleming@digirang.com",
-    "birthDate": "2021-05-20T02:08:52 -03:00",
+    "birthDate": "2021-05-20T02:08:52 ",
     "role": "Admin"
   },
   {
@@ -2756,7 +2756,7 @@
     "firstName": "Kayla",
     "lastName": "Bruce",
     "email": "kaylabruce@digirang.com",
-    "birthDate": "2015-12-21T07:24:11 -02:00",
+    "birthDate": "2015-12-21T07:24:11 ",
     "role": "Admin"
   },
   {
@@ -2764,7 +2764,7 @@
     "firstName": "Rosetta",
     "lastName": "Barnett",
     "email": "rosettabarnett@digirang.com",
-    "birthDate": "2017-09-12T07:07:52 -03:00",
+    "birthDate": "2017-09-12T07:07:52 ",
     "role": "Processexpert"
   },
   {
@@ -2772,7 +2772,7 @@
     "firstName": "Traci",
     "lastName": "Alvarez",
     "email": "tracialvarez@digirang.com",
-    "birthDate": "2020-07-26T12:58:29 -03:00",
+    "birthDate": "2020-07-26T12:58:29 ",
     "role": "Riskmanager"
   },
   {
@@ -2780,7 +2780,7 @@
     "firstName": "Barry",
     "lastName": "Mcclain",
     "email": "barrymcclain@digirang.com",
-    "birthDate": "2019-04-01T11:06:00 -03:00",
+    "birthDate": "2019-04-01T11:06:00 ",
     "role": "Processexpert"
   },
   {
@@ -2788,7 +2788,7 @@
     "firstName": "Shari",
     "lastName": "Hughes",
     "email": "sharihughes@digirang.com",
-    "birthDate": "2020-01-12T01:17:40 -02:00",
+    "birthDate": "2020-01-12T01:17:40 ",
     "role": "Processexpert"
   },
   {
@@ -2796,7 +2796,7 @@
     "firstName": "Josie",
     "lastName": "Madden",
     "email": "josiemadden@digirang.com",
-    "birthDate": "2015-08-29T05:09:34 -03:00",
+    "birthDate": "2015-08-29T05:09:34 ",
     "role": "Admin"
   },
   {
@@ -2804,7 +2804,7 @@
     "firstName": "Gutierrez",
     "lastName": "Sherman",
     "email": "gutierrezsherman@digirang.com",
-    "birthDate": "2017-08-25T01:36:22 -03:00",
+    "birthDate": "2017-08-25T01:36:22 ",
     "role": "Auditor"
   },
   {
@@ -2812,7 +2812,7 @@
     "firstName": "Bray",
     "lastName": "Wood",
     "email": "braywood@digirang.com",
-    "birthDate": "2019-09-16T03:39:26 -03:00",
+    "birthDate": "2019-09-16T03:39:26 ",
     "role": "Processexpert"
   },
   {
@@ -2820,7 +2820,7 @@
     "firstName": "Everett",
     "lastName": "Sweet",
     "email": "everettsweet@digirang.com",
-    "birthDate": "2016-01-26T04:07:16 -02:00",
+    "birthDate": "2016-01-26T04:07:16 ",
     "role": "Auditor"
   },
   {
@@ -2828,7 +2828,7 @@
     "firstName": "Bianca",
     "lastName": "Carson",
     "email": "biancacarson@digirang.com",
-    "birthDate": "2015-06-25T10:14:11 -03:00",
+    "birthDate": "2015-06-25T10:14:11 ",
     "role": "Riskmanager"
   },
   {
@@ -2836,7 +2836,7 @@
     "firstName": "Mitchell",
     "lastName": "Rhodes",
     "email": "mitchellrhodes@digirang.com",
-    "birthDate": "2019-08-07T06:15:17 -03:00",
+    "birthDate": "2019-08-07T06:15:17 ",
     "role": "Riskmanager"
   },
   {
@@ -2844,7 +2844,7 @@
     "firstName": "Ebony",
     "lastName": "Lane",
     "email": "ebonylane@digirang.com",
-    "birthDate": "2014-03-30T01:51:30 -03:00",
+    "birthDate": "2014-03-30T01:51:30 ",
     "role": "Processexpert"
   },
   {
@@ -2852,7 +2852,7 @@
     "firstName": "Chen",
     "lastName": "Graves",
     "email": "chengraves@digirang.com",
-    "birthDate": "2018-02-02T08:50:24 -02:00",
+    "birthDate": "2018-02-02T08:50:24 ",
     "role": "Auditor"
   },
   {
@@ -2860,7 +2860,7 @@
     "firstName": "Herman",
     "lastName": "Davidson",
     "email": "hermandavidson@digirang.com",
-    "birthDate": "2019-04-07T09:46:09 -03:00",
+    "birthDate": "2019-04-07T09:46:09 ",
     "role": "Riskmanager"
   },
   {
@@ -2868,7 +2868,7 @@
     "firstName": "Neva",
     "lastName": "Velez",
     "email": "nevavelez@digirang.com",
-    "birthDate": "2015-08-12T06:23:37 -03:00",
+    "birthDate": "2015-08-12T06:23:37 ",
     "role": "Processexpert"
   },
   {
@@ -2876,7 +2876,7 @@
     "firstName": "Laurel",
     "lastName": "Murphy",
     "email": "laurelmurphy@digirang.com",
-    "birthDate": "2015-01-26T03:00:08 -02:00",
+    "birthDate": "2015-01-26T03:00:08 ",
     "role": "Riskmanager"
   },
   {
@@ -2884,7 +2884,7 @@
     "firstName": "Douglas",
     "lastName": "Padilla",
     "email": "douglaspadilla@digirang.com",
-    "birthDate": "2018-02-06T12:30:23 -02:00",
+    "birthDate": "2018-02-06T12:30:23 ",
     "role": "Admin"
   },
   {
@@ -2892,7 +2892,7 @@
     "firstName": "Mona",
     "lastName": "Wilkins",
     "email": "monawilkins@digirang.com",
-    "birthDate": "2014-07-30T10:10:31 -03:00",
+    "birthDate": "2014-07-30T10:10:31 ",
     "role": "Processexpert"
   },
   {
@@ -2900,7 +2900,7 @@
     "firstName": "Juanita",
     "lastName": "Rios",
     "email": "juanitarios@digirang.com",
-    "birthDate": "2020-01-21T06:30:53 -02:00",
+    "birthDate": "2020-01-21T06:30:53 ",
     "role": "Admin"
   },
   {
@@ -2908,7 +2908,7 @@
     "firstName": "Carolina",
     "lastName": "Vaughn",
     "email": "carolinavaughn@digirang.com",
-    "birthDate": "2014-11-11T12:09:58 -02:00",
+    "birthDate": "2014-11-11T12:09:58 ",
     "role": "Riskmanager"
   },
   {
@@ -2916,7 +2916,7 @@
     "firstName": "Tammi",
     "lastName": "Valenzuela",
     "email": "tammivalenzuela@digirang.com",
-    "birthDate": "2020-10-27T05:42:11 -02:00",
+    "birthDate": "2020-10-27T05:42:11 ",
     "role": "Riskmanager"
   },
   {
@@ -2924,7 +2924,7 @@
     "firstName": "Nellie",
     "lastName": "Ford",
     "email": "nellieford@digirang.com",
-    "birthDate": "2016-04-02T01:59:07 -03:00",
+    "birthDate": "2016-04-02T01:59:07 ",
     "role": "Admin"
   },
   {
@@ -2932,7 +2932,7 @@
     "firstName": "Jannie",
     "lastName": "Fox",
     "email": "janniefox@digirang.com",
-    "birthDate": "2015-06-26T06:51:44 -03:00",
+    "birthDate": "2015-06-26T06:51:44 ",
     "role": "Admin"
   },
   {
@@ -2940,7 +2940,7 @@
     "firstName": "Kim",
     "lastName": "Dunn",
     "email": "kimdunn@digirang.com",
-    "birthDate": "2020-05-11T02:19:22 -03:00",
+    "birthDate": "2020-05-11T02:19:22 ",
     "role": "Processexpert"
   },
   {
@@ -2948,7 +2948,7 @@
     "firstName": "Christian",
     "lastName": "Burt",
     "email": "christianburt@digirang.com",
-    "birthDate": "2016-11-30T01:45:53 -02:00",
+    "birthDate": "2016-11-30T01:45:53 ",
     "role": "Riskmanager"
   },
   {
@@ -2956,7 +2956,7 @@
     "firstName": "Landry",
     "lastName": "Medina",
     "email": "landrymedina@digirang.com",
-    "birthDate": "2017-12-26T06:00:46 -02:00",
+    "birthDate": "2017-12-26T06:00:46 ",
     "role": "Auditor"
   },
   {
@@ -2964,7 +2964,7 @@
     "firstName": "Hahn",
     "lastName": "Bass",
     "email": "hahnbass@digirang.com",
-    "birthDate": "2017-06-17T10:49:01 -03:00",
+    "birthDate": "2017-06-17T10:49:01 ",
     "role": "Processexpert"
   },
   {
@@ -2972,7 +2972,7 @@
     "firstName": "Miles",
     "lastName": "Mcguire",
     "email": "milesmcguire@digirang.com",
-    "birthDate": "2014-05-16T10:51:40 -03:00",
+    "birthDate": "2014-05-16T10:51:40 ",
     "role": "Riskmanager"
   },
   {
@@ -2980,7 +2980,7 @@
     "firstName": "Bryan",
     "lastName": "Barber",
     "email": "bryanbarber@digirang.com",
-    "birthDate": "2015-01-22T11:21:01 -02:00",
+    "birthDate": "2015-01-22T11:21:01 ",
     "role": "Riskmanager"
   },
   {
@@ -2988,7 +2988,7 @@
     "firstName": "Harrington",
     "lastName": "Maldonado",
     "email": "harringtonmaldonado@digirang.com",
-    "birthDate": "2016-09-11T09:12:47 -03:00",
+    "birthDate": "2016-09-11T09:12:47 ",
     "role": "Auditor"
   },
   {
@@ -2996,7 +2996,7 @@
     "firstName": "Leonard",
     "lastName": "Pickett",
     "email": "leonardpickett@digirang.com",
-    "birthDate": "2019-11-22T07:20:38 -02:00",
+    "birthDate": "2019-11-22T07:20:38 ",
     "role": "Admin"
   },
   {
@@ -3004,7 +3004,7 @@
     "firstName": "Fischer",
     "lastName": "Baker",
     "email": "fischerbaker@digirang.com",
-    "birthDate": "2018-06-01T11:35:19 -03:00",
+    "birthDate": "2018-06-01T11:35:19 ",
     "role": "Processexpert"
   },
   {
@@ -3012,7 +3012,7 @@
     "firstName": "Roach",
     "lastName": "Rice",
     "email": "roachrice@digirang.com",
-    "birthDate": "2018-03-01T06:40:16 -02:00",
+    "birthDate": "2018-03-01T06:40:16 ",
     "role": "Auditor"
   },
   {
@@ -3020,7 +3020,7 @@
     "firstName": "Burks",
     "lastName": "Stephens",
     "email": "burksstephens@digirang.com",
-    "birthDate": "2019-11-05T09:27:36 -02:00",
+    "birthDate": "2019-11-05T09:27:36 ",
     "role": "Processexpert"
   },
   {
@@ -3028,7 +3028,7 @@
     "firstName": "Lynne",
     "lastName": "Rogers",
     "email": "lynnerogers@digirang.com",
-    "birthDate": "2018-01-08T09:26:23 -02:00",
+    "birthDate": "2018-01-08T09:26:23 ",
     "role": "Auditor"
   },
   {
@@ -3036,7 +3036,7 @@
     "firstName": "Melton",
     "lastName": "Carney",
     "email": "meltoncarney@digirang.com",
-    "birthDate": "2014-10-13T01:43:12 -03:00",
+    "birthDate": "2014-10-13T01:43:12 ",
     "role": "Auditor"
   },
   {
@@ -3044,7 +3044,7 @@
     "firstName": "Armstrong",
     "lastName": "Perkins",
     "email": "armstrongperkins@digirang.com",
-    "birthDate": "2018-11-28T05:06:44 -02:00",
+    "birthDate": "2018-11-28T05:06:44 ",
     "role": "Auditor"
   },
   {
@@ -3052,7 +3052,7 @@
     "firstName": "Hays",
     "lastName": "Compton",
     "email": "hayscompton@digirang.com",
-    "birthDate": "2016-07-08T06:16:21 -03:00",
+    "birthDate": "2016-07-08T06:16:21 ",
     "role": "Admin"
   },
   {
@@ -3060,7 +3060,7 @@
     "firstName": "Berger",
     "lastName": "Trevino",
     "email": "bergertrevino@digirang.com",
-    "birthDate": "2020-09-07T12:49:43 -03:00",
+    "birthDate": "2020-09-07T12:49:43 ",
     "role": "Riskmanager"
   },
   {
@@ -3068,7 +3068,7 @@
     "firstName": "Swanson",
     "lastName": "Strong",
     "email": "swansonstrong@digirang.com",
-    "birthDate": "2020-06-25T04:38:29 -03:00",
+    "birthDate": "2020-06-25T04:38:29 ",
     "role": "Riskmanager"
   },
   {
@@ -3076,7 +3076,7 @@
     "firstName": "Kirkland",
     "lastName": "Lara",
     "email": "kirklandlara@digirang.com",
-    "birthDate": "2016-05-20T08:00:02 -03:00",
+    "birthDate": "2016-05-20T08:00:02 ",
     "role": "Processexpert"
   },
   {
@@ -3084,7 +3084,7 @@
     "firstName": "Velma",
     "lastName": "Vazquez",
     "email": "velmavazquez@digirang.com",
-    "birthDate": "2015-03-09T05:54:03 -02:00",
+    "birthDate": "2015-03-09T05:54:03 ",
     "role": "Auditor"
   },
   {
@@ -3092,7 +3092,7 @@
     "firstName": "Holloway",
     "lastName": "Snow",
     "email": "hollowaysnow@digirang.com",
-    "birthDate": "2017-09-19T12:36:53 -03:00",
+    "birthDate": "2017-09-19T12:36:53 ",
     "role": "Admin"
   },
   {
@@ -3100,7 +3100,7 @@
     "firstName": "Alana",
     "lastName": "Carter",
     "email": "alanacarter@digirang.com",
-    "birthDate": "2021-05-22T07:12:05 -03:00",
+    "birthDate": "2021-05-22T07:12:05 ",
     "role": "Admin"
   },
   {
@@ -3108,7 +3108,7 @@
     "firstName": "Bridges",
     "lastName": "Francis",
     "email": "bridgesfrancis@digirang.com",
-    "birthDate": "2014-08-21T12:48:21 -03:00",
+    "birthDate": "2014-08-21T12:48:21 ",
     "role": "Riskmanager"
   },
   {
@@ -3116,7 +3116,7 @@
     "firstName": "Dillon",
     "lastName": "Mcintyre",
     "email": "dillonmcintyre@digirang.com",
-    "birthDate": "2021-06-23T09:19:36 -03:00",
+    "birthDate": "2021-06-23T09:19:36 ",
     "role": "Riskmanager"
   },
   {
@@ -3124,7 +3124,7 @@
     "firstName": "York",
     "lastName": "Chapman",
     "email": "yorkchapman@digirang.com",
-    "birthDate": "2018-10-19T04:21:11 -03:00",
+    "birthDate": "2018-10-19T04:21:11 ",
     "role": "Auditor"
   },
   {
@@ -3132,7 +3132,7 @@
     "firstName": "Avis",
     "lastName": "Franklin",
     "email": "avisfranklin@digirang.com",
-    "birthDate": "2020-10-28T03:16:29 -02:00",
+    "birthDate": "2020-10-28T03:16:29 ",
     "role": "Riskmanager"
   },
   {
@@ -3140,7 +3140,7 @@
     "firstName": "Burgess",
     "lastName": "Frederick",
     "email": "burgessfrederick@digirang.com",
-    "birthDate": "2015-03-13T02:17:26 -02:00",
+    "birthDate": "2015-03-13T02:17:26 ",
     "role": "Auditor"
   },
   {
@@ -3148,7 +3148,7 @@
     "firstName": "Freeman",
     "lastName": "Hendricks",
     "email": "freemanhendricks@digirang.com",
-    "birthDate": "2020-07-12T10:53:48 -03:00",
+    "birthDate": "2020-07-12T10:53:48 ",
     "role": "Admin"
   },
   {
@@ -3156,7 +3156,7 @@
     "firstName": "Kristin",
     "lastName": "Duke",
     "email": "kristinduke@digirang.com",
-    "birthDate": "2019-04-02T11:54:40 -03:00",
+    "birthDate": "2019-04-02T11:54:40 ",
     "role": "Auditor"
   },
   {
@@ -3164,7 +3164,7 @@
     "firstName": "Hinton",
     "lastName": "Tran",
     "email": "hintontran@digirang.com",
-    "birthDate": "2021-03-29T05:01:21 -03:00",
+    "birthDate": "2021-03-29T05:01:21 ",
     "role": "Processexpert"
   },
   {
@@ -3172,7 +3172,7 @@
     "firstName": "Cohen",
     "lastName": "Alston",
     "email": "cohenalston@digirang.com",
-    "birthDate": "2014-11-18T03:18:21 -02:00",
+    "birthDate": "2014-11-18T03:18:21 ",
     "role": "Riskmanager"
   },
   {
@@ -3180,7 +3180,7 @@
     "firstName": "Haney",
     "lastName": "Mack",
     "email": "haneymack@digirang.com",
-    "birthDate": "2019-10-23T11:30:59 -03:00",
+    "birthDate": "2019-10-23T11:30:59 ",
     "role": "Processexpert"
   },
   {
@@ -3188,7 +3188,7 @@
     "firstName": "Jarvis",
     "lastName": "Merrill",
     "email": "jarvismerrill@digirang.com",
-    "birthDate": "2019-02-11T11:50:18 -02:00",
+    "birthDate": "2019-02-11T11:50:18 ",
     "role": "Auditor"
   },
   {
@@ -3196,7 +3196,7 @@
     "firstName": "Britney",
     "lastName": "Maynard",
     "email": "britneymaynard@digirang.com",
-    "birthDate": "2020-03-22T01:00:02 -02:00",
+    "birthDate": "2020-03-22T01:00:02 ",
     "role": "Processexpert"
   },
   {
@@ -3204,7 +3204,7 @@
     "firstName": "Woodward",
     "lastName": "Simmons",
     "email": "woodwardsimmons@digirang.com",
-    "birthDate": "2021-02-21T06:44:26 -02:00",
+    "birthDate": "2021-02-21T06:44:26 ",
     "role": "Processexpert"
   },
   {
@@ -3212,7 +3212,7 @@
     "firstName": "Marsh",
     "lastName": "Fernandez",
     "email": "marshfernandez@digirang.com",
-    "birthDate": "2020-08-01T06:59:07 -03:00",
+    "birthDate": "2020-08-01T06:59:07 ",
     "role": "Processexpert"
   },
   {
@@ -3220,7 +3220,7 @@
     "firstName": "Gilliam",
     "lastName": "Butler",
     "email": "gilliambutler@digirang.com",
-    "birthDate": "2018-06-16T01:37:41 -03:00",
+    "birthDate": "2018-06-16T01:37:41 ",
     "role": "Admin"
   },
   {
@@ -3228,7 +3228,7 @@
     "firstName": "Lenora",
     "lastName": "Conner",
     "email": "lenoraconner@digirang.com",
-    "birthDate": "2014-05-20T10:34:37 -03:00",
+    "birthDate": "2014-05-20T10:34:37 ",
     "role": "Riskmanager"
   },
   {
@@ -3236,7 +3236,7 @@
     "firstName": "Harrell",
     "lastName": "Owen",
     "email": "harrellowen@digirang.com",
-    "birthDate": "2020-11-10T02:50:10 -02:00",
+    "birthDate": "2020-11-10T02:50:10 ",
     "role": "Processexpert"
   },
   {
@@ -3244,7 +3244,7 @@
     "firstName": "Sharlene",
     "lastName": "Jarvis",
     "email": "sharlenejarvis@digirang.com",
-    "birthDate": "2019-03-28T09:05:22 -02:00",
+    "birthDate": "2019-03-28T09:05:22 ",
     "role": "Processexpert"
   },
   {
@@ -3252,7 +3252,7 @@
     "firstName": "Florence",
     "lastName": "Sloan",
     "email": "florencesloan@digirang.com",
-    "birthDate": "2020-09-22T04:03:46 -03:00",
+    "birthDate": "2020-09-22T04:03:46 ",
     "role": "Admin"
   },
   {
@@ -3260,7 +3260,7 @@
     "firstName": "Henson",
     "lastName": "Chambers",
     "email": "hensonchambers@digirang.com",
-    "birthDate": "2020-09-15T06:26:04 -03:00",
+    "birthDate": "2020-09-15T06:26:04 ",
     "role": "Auditor"
   },
   {
@@ -3268,7 +3268,7 @@
     "firstName": "Mullins",
     "lastName": "Callahan",
     "email": "mullinscallahan@digirang.com",
-    "birthDate": "2020-08-20T02:08:22 -03:00",
+    "birthDate": "2020-08-20T02:08:22 ",
     "role": "Riskmanager"
   },
   {
@@ -3276,7 +3276,7 @@
     "firstName": "Sherrie",
     "lastName": "Sutton",
     "email": "sherriesutton@digirang.com",
-    "birthDate": "2018-12-25T03:35:42 -02:00",
+    "birthDate": "2018-12-25T03:35:42 ",
     "role": "Auditor"
   },
   {
@@ -3284,7 +3284,7 @@
     "firstName": "Murray",
     "lastName": "Fields",
     "email": "murrayfields@digirang.com",
-    "birthDate": "2017-12-17T10:45:18 -02:00",
+    "birthDate": "2017-12-17T10:45:18 ",
     "role": "Processexpert"
   },
   {
@@ -3292,7 +3292,7 @@
     "firstName": "Molina",
     "lastName": "Alexander",
     "email": "molinaalexander@digirang.com",
-    "birthDate": "2020-07-07T09:03:15 -03:00",
+    "birthDate": "2020-07-07T09:03:15 ",
     "role": "Riskmanager"
   },
   {
@@ -3300,7 +3300,7 @@
     "firstName": "Charlotte",
     "lastName": "English",
     "email": "charlotteenglish@digirang.com",
-    "birthDate": "2019-04-10T02:55:06 -03:00",
+    "birthDate": "2019-04-10T02:55:06 ",
     "role": "Auditor"
   },
   {
@@ -3308,7 +3308,7 @@
     "firstName": "Duke",
     "lastName": "Riddle",
     "email": "dukeriddle@digirang.com",
-    "birthDate": "2019-12-25T12:52:08 -02:00",
+    "birthDate": "2019-12-25T12:52:08 ",
     "role": "Auditor"
   },
   {
@@ -3316,7 +3316,7 @@
     "firstName": "Cassie",
     "lastName": "Sandoval",
     "email": "cassiesandoval@digirang.com",
-    "birthDate": "2014-10-23T10:05:19 -03:00",
+    "birthDate": "2014-10-23T10:05:19 ",
     "role": "Admin"
   },
   {
@@ -3324,7 +3324,7 @@
     "firstName": "Sadie",
     "lastName": "Mcdowell",
     "email": "sadiemcdowell@digirang.com",
-    "birthDate": "2014-08-28T01:35:34 -03:00",
+    "birthDate": "2014-08-28T01:35:34 ",
     "role": "Processexpert"
   },
   {
@@ -3332,7 +3332,7 @@
     "firstName": "Wells",
     "lastName": "Stafford",
     "email": "wellsstafford@digirang.com",
-    "birthDate": "2019-04-06T10:54:30 -03:00",
+    "birthDate": "2019-04-06T10:54:30 ",
     "role": "Admin"
   },
   {
@@ -3340,7 +3340,7 @@
     "firstName": "Park",
     "lastName": "Rosa",
     "email": "parkrosa@digirang.com",
-    "birthDate": "2020-01-11T01:41:36 -02:00",
+    "birthDate": "2020-01-11T01:41:36 ",
     "role": "Processexpert"
   },
   {
@@ -3348,7 +3348,7 @@
     "firstName": "Browning",
     "lastName": "Bridges",
     "email": "browningbridges@digirang.com",
-    "birthDate": "2016-03-21T05:58:36 -02:00",
+    "birthDate": "2016-03-21T05:58:36 ",
     "role": "Processexpert"
   },
   {
@@ -3356,7 +3356,7 @@
     "firstName": "Margie",
     "lastName": "Collins",
     "email": "margiecollins@digirang.com",
-    "birthDate": "2020-11-12T02:56:27 -02:00",
+    "birthDate": "2020-11-12T02:56:27 ",
     "role": "Auditor"
   },
   {
@@ -3364,7 +3364,7 @@
     "firstName": "Hansen",
     "lastName": "Steele",
     "email": "hansensteele@digirang.com",
-    "birthDate": "2019-05-04T04:34:03 -03:00",
+    "birthDate": "2019-05-04T04:34:03 ",
     "role": "Processexpert"
   },
   {
@@ -3372,7 +3372,7 @@
     "firstName": "Christi",
     "lastName": "House",
     "email": "christihouse@digirang.com",
-    "birthDate": "2014-03-30T09:49:15 -03:00",
+    "birthDate": "2014-03-30T09:49:15 ",
     "role": "Admin"
   },
   {
@@ -3380,7 +3380,7 @@
     "firstName": "Gertrude",
     "lastName": "Townsend",
     "email": "gertrudetownsend@digirang.com",
-    "birthDate": "2021-06-07T01:08:53 -03:00",
+    "birthDate": "2021-06-07T01:08:53 ",
     "role": "Processexpert"
   },
   {
@@ -3388,7 +3388,7 @@
     "firstName": "Carolyn",
     "lastName": "Evans",
     "email": "carolynevans@digirang.com",
-    "birthDate": "2015-07-12T03:30:38 -03:00",
+    "birthDate": "2015-07-12T03:30:38 ",
     "role": "Admin"
   },
   {
@@ -3396,7 +3396,7 @@
     "firstName": "Lora",
     "lastName": "Mclean",
     "email": "loramclean@digirang.com",
-    "birthDate": "2018-12-11T05:17:23 -02:00",
+    "birthDate": "2018-12-11T05:17:23 ",
     "role": "Processexpert"
   },
   {
@@ -3404,7 +3404,7 @@
     "firstName": "Nunez",
     "lastName": "Hurley",
     "email": "nunezhurley@digirang.com",
-    "birthDate": "2016-10-13T08:38:23 -03:00",
+    "birthDate": "2016-10-13T08:38:23 ",
     "role": "Admin"
   },
   {
@@ -3412,7 +3412,7 @@
     "firstName": "Shaw",
     "lastName": "Odonnell",
     "email": "shawodonnell@digirang.com",
-    "birthDate": "2015-10-01T07:26:51 -03:00",
+    "birthDate": "2015-10-01T07:26:51 ",
     "role": "Processexpert"
   },
   {
@@ -3420,7 +3420,7 @@
     "firstName": "Aida",
     "lastName": "Lamb",
     "email": "aidalamb@digirang.com",
-    "birthDate": "2017-10-29T04:12:35 -02:00",
+    "birthDate": "2017-10-29T04:12:35 ",
     "role": "Admin"
   },
   {
@@ -3428,7 +3428,7 @@
     "firstName": "Natalie",
     "lastName": "Goodwin",
     "email": "nataliegoodwin@digirang.com",
-    "birthDate": "2017-09-09T09:50:41 -03:00",
+    "birthDate": "2017-09-09T09:50:41 ",
     "role": "Riskmanager"
   },
   {
@@ -3436,7 +3436,7 @@
     "firstName": "Cherry",
     "lastName": "Pace",
     "email": "cherrypace@digirang.com",
-    "birthDate": "2016-10-23T01:16:59 -03:00",
+    "birthDate": "2016-10-23T01:16:59 ",
     "role": "Admin"
   },
   {
@@ -3444,7 +3444,7 @@
     "firstName": "Compton",
     "lastName": "Long",
     "email": "comptonlong@digirang.com",
-    "birthDate": "2019-04-24T12:28:56 -03:00",
+    "birthDate": "2019-04-24T12:28:56 ",
     "role": "Admin"
   },
   {
@@ -3452,7 +3452,7 @@
     "firstName": "Sullivan",
     "lastName": "Cobb",
     "email": "sullivancobb@digirang.com",
-    "birthDate": "2016-09-22T07:52:29 -03:00",
+    "birthDate": "2016-09-22T07:52:29 ",
     "role": "Processexpert"
   },
   {
@@ -3460,7 +3460,7 @@
     "firstName": "Head",
     "lastName": "Park",
     "email": "headpark@digirang.com",
-    "birthDate": "2021-07-22T09:17:00 -03:00",
+    "birthDate": "2021-07-22T09:17:00 ",
     "role": "Auditor"
   },
   {
@@ -3468,7 +3468,7 @@
     "firstName": "Thomas",
     "lastName": "Nieves",
     "email": "thomasnieves@digirang.com",
-    "birthDate": "2019-12-01T09:48:58 -02:00",
+    "birthDate": "2019-12-01T09:48:58 ",
     "role": "Admin"
   },
   {
@@ -3476,7 +3476,7 @@
     "firstName": "Cornelia",
     "lastName": "Lynn",
     "email": "cornelialynn@digirang.com",
-    "birthDate": "2021-02-02T02:44:18 -02:00",
+    "birthDate": "2021-02-02T02:44:18 ",
     "role": "Auditor"
   },
   {
@@ -3484,7 +3484,7 @@
     "firstName": "Ladonna",
     "lastName": "Irwin",
     "email": "ladonnairwin@digirang.com",
-    "birthDate": "2015-11-13T02:29:50 -02:00",
+    "birthDate": "2015-11-13T02:29:50 ",
     "role": "Admin"
   },
   {
@@ -3492,7 +3492,7 @@
     "firstName": "Reid",
     "lastName": "Mullins",
     "email": "reidmullins@digirang.com",
-    "birthDate": "2016-05-27T09:21:25 -03:00",
+    "birthDate": "2016-05-27T09:21:25 ",
     "role": "Processexpert"
   },
   {
@@ -3500,7 +3500,7 @@
     "firstName": "Waller",
     "lastName": "Guerra",
     "email": "wallerguerra@digirang.com",
-    "birthDate": "2020-10-24T05:50:26 -03:00",
+    "birthDate": "2020-10-24T05:50:26 ",
     "role": "Admin"
   },
   {
@@ -3508,7 +3508,7 @@
     "firstName": "Mariana",
     "lastName": "Mcmahon",
     "email": "marianamcmahon@digirang.com",
-    "birthDate": "2020-01-11T01:33:14 -02:00",
+    "birthDate": "2020-01-11T01:33:14 ",
     "role": "Auditor"
   },
   {
@@ -3516,7 +3516,7 @@
     "firstName": "Schroeder",
     "lastName": "Sharpe",
     "email": "schroedersharpe@digirang.com",
-    "birthDate": "2017-08-24T08:12:20 -03:00",
+    "birthDate": "2017-08-24T08:12:20 ",
     "role": "Admin"
   },
   {
@@ -3524,7 +3524,7 @@
     "firstName": "Jennifer",
     "lastName": "Hinton",
     "email": "jenniferhinton@digirang.com",
-    "birthDate": "2015-04-27T08:54:44 -03:00",
+    "birthDate": "2015-04-27T08:54:44 ",
     "role": "Admin"
   },
   {
@@ -3532,7 +3532,7 @@
     "firstName": "Millie",
     "lastName": "Stewart",
     "email": "milliestewart@digirang.com",
-    "birthDate": "2018-05-24T04:41:38 -03:00",
+    "birthDate": "2018-05-24T04:41:38 ",
     "role": "Processexpert"
   },
   {
@@ -3540,7 +3540,7 @@
     "firstName": "Ila",
     "lastName": "Hines",
     "email": "ilahines@digirang.com",
-    "birthDate": "2018-04-11T08:46:47 -03:00",
+    "birthDate": "2018-04-11T08:46:47 ",
     "role": "Admin"
   },
   {
@@ -3548,7 +3548,7 @@
     "firstName": "Stacy",
     "lastName": "Parrish",
     "email": "stacyparrish@digirang.com",
-    "birthDate": "2014-03-25T09:38:01 -02:00",
+    "birthDate": "2014-03-25T09:38:01 ",
     "role": "Riskmanager"
   },
   {
@@ -3556,7 +3556,7 @@
     "firstName": "Lou",
     "lastName": "Day",
     "email": "louday@digirang.com",
-    "birthDate": "2015-12-18T11:55:00 -02:00",
+    "birthDate": "2015-12-18T11:55:00 ",
     "role": "Auditor"
   },
   {
@@ -3564,7 +3564,7 @@
     "firstName": "Whitney",
     "lastName": "Snyder",
     "email": "whitneysnyder@digirang.com",
-    "birthDate": "2018-01-26T09:20:47 -02:00",
+    "birthDate": "2018-01-26T09:20:47 ",
     "role": "Processexpert"
   },
   {
@@ -3572,7 +3572,7 @@
     "firstName": "Marva",
     "lastName": "Garrison",
     "email": "marvagarrison@digirang.com",
-    "birthDate": "2017-06-28T10:03:26 -03:00",
+    "birthDate": "2017-06-28T10:03:26 ",
     "role": "Auditor"
   },
   {
@@ -3580,7 +3580,7 @@
     "firstName": "Roman",
     "lastName": "Reeves",
     "email": "romanreeves@digirang.com",
-    "birthDate": "2019-08-03T08:44:15 -03:00",
+    "birthDate": "2019-08-03T08:44:15 ",
     "role": "Riskmanager"
   },
   {
@@ -3588,7 +3588,7 @@
     "firstName": "Julianne",
     "lastName": "Jacobson",
     "email": "juliannejacobson@digirang.com",
-    "birthDate": "2019-02-11T02:59:23 -02:00",
+    "birthDate": "2019-02-11T02:59:23 ",
     "role": "Admin"
   },
   {
@@ -3596,7 +3596,7 @@
     "firstName": "Bowen",
     "lastName": "Woodard",
     "email": "bowenwoodard@digirang.com",
-    "birthDate": "2016-05-12T10:07:16 -03:00",
+    "birthDate": "2016-05-12T10:07:16 ",
     "role": "Auditor"
   },
   {
@@ -3604,7 +3604,7 @@
     "firstName": "Sykes",
     "lastName": "Fletcher",
     "email": "sykesfletcher@digirang.com",
-    "birthDate": "2017-09-17T05:48:46 -03:00",
+    "birthDate": "2017-09-17T05:48:46 ",
     "role": "Admin"
   },
   {
@@ -3612,7 +3612,7 @@
     "firstName": "Reyna",
     "lastName": "Decker",
     "email": "reynadecker@digirang.com",
-    "birthDate": "2014-02-04T12:37:00 -02:00",
+    "birthDate": "2014-02-04T12:37:00 ",
     "role": "Processexpert"
   },
   {
@@ -3620,7 +3620,7 @@
     "firstName": "Snider",
     "lastName": "Cannon",
     "email": "snidercannon@digirang.com",
-    "birthDate": "2015-07-28T08:02:52 -03:00",
+    "birthDate": "2015-07-28T08:02:52 ",
     "role": "Auditor"
   },
   {
@@ -3628,7 +3628,7 @@
     "firstName": "Potter",
     "lastName": "Morrow",
     "email": "pottermorrow@digirang.com",
-    "birthDate": "2015-07-01T02:21:30 -03:00",
+    "birthDate": "2015-07-01T02:21:30 ",
     "role": "Admin"
   },
   {
@@ -3636,7 +3636,7 @@
     "firstName": "Stone",
     "lastName": "Carpenter",
     "email": "stonecarpenter@digirang.com",
-    "birthDate": "2018-01-26T03:05:54 -02:00",
+    "birthDate": "2018-01-26T03:05:54 ",
     "role": "Processexpert"
   },
   {
@@ -3644,7 +3644,7 @@
     "firstName": "Morrow",
     "lastName": "Sheppard",
     "email": "morrowsheppard@digirang.com",
-    "birthDate": "2019-11-20T07:47:53 -02:00",
+    "birthDate": "2019-11-20T07:47:53 ",
     "role": "Admin"
   },
   {
@@ -3652,7 +3652,7 @@
     "firstName": "Buckley",
     "lastName": "Tyson",
     "email": "buckleytyson@digirang.com",
-    "birthDate": "2014-08-04T02:17:18 -03:00",
+    "birthDate": "2014-08-04T02:17:18 ",
     "role": "Processexpert"
   },
   {
@@ -3660,7 +3660,7 @@
     "firstName": "Cervantes",
     "lastName": "Sawyer",
     "email": "cervantessawyer@digirang.com",
-    "birthDate": "2017-08-31T01:46:54 -03:00",
+    "birthDate": "2017-08-31T01:46:54 ",
     "role": "Processexpert"
   },
   {
@@ -3668,7 +3668,7 @@
     "firstName": "Marla",
     "lastName": "Pacheco",
     "email": "marlapacheco@digirang.com",
-    "birthDate": "2015-02-12T06:32:13 -02:00",
+    "birthDate": "2015-02-12T06:32:13 ",
     "role": "Auditor"
   },
   {
@@ -3676,7 +3676,7 @@
     "firstName": "Stacie",
     "lastName": "Cantrell",
     "email": "staciecantrell@digirang.com",
-    "birthDate": "2020-09-05T08:19:26 -03:00",
+    "birthDate": "2020-09-05T08:19:26 ",
     "role": "Processexpert"
   },
   {
@@ -3684,7 +3684,7 @@
     "firstName": "Tameka",
     "lastName": "Bender",
     "email": "tamekabender@digirang.com",
-    "birthDate": "2019-01-11T10:59:02 -02:00",
+    "birthDate": "2019-01-11T10:59:02 ",
     "role": "Processexpert"
   },
   {
@@ -3692,7 +3692,7 @@
     "firstName": "Leslie",
     "lastName": "Woods",
     "email": "lesliewoods@digirang.com",
-    "birthDate": "2019-03-03T02:40:24 -02:00",
+    "birthDate": "2019-03-03T02:40:24 ",
     "role": "Riskmanager"
   },
   {
@@ -3700,7 +3700,7 @@
     "firstName": "Tanisha",
     "lastName": "Weiss",
     "email": "tanishaweiss@digirang.com",
-    "birthDate": "2015-02-19T10:04:44 -02:00",
+    "birthDate": "2015-02-19T10:04:44 ",
     "role": "Riskmanager"
   },
   {
@@ -3708,7 +3708,7 @@
     "firstName": "Houston",
     "lastName": "Marshall",
     "email": "houstonmarshall@digirang.com",
-    "birthDate": "2019-05-02T03:22:36 -03:00",
+    "birthDate": "2019-05-02T03:22:36 ",
     "role": "Processexpert"
   },
   {
@@ -3716,7 +3716,7 @@
     "firstName": "Boone",
     "lastName": "Salazar",
     "email": "boonesalazar@digirang.com",
-    "birthDate": "2021-04-03T02:15:00 -03:00",
+    "birthDate": "2021-04-03T02:15:00 ",
     "role": "Riskmanager"
   },
   {
@@ -3724,7 +3724,7 @@
     "firstName": "Autumn",
     "lastName": "Dickson",
     "email": "autumndickson@digirang.com",
-    "birthDate": "2015-01-03T04:03:32 -02:00",
+    "birthDate": "2015-01-03T04:03:32 ",
     "role": "Auditor"
   },
   {
@@ -3732,7 +3732,7 @@
     "firstName": "Sanford",
     "lastName": "Langley",
     "email": "sanfordlangley@digirang.com",
-    "birthDate": "2019-09-10T08:21:52 -03:00",
+    "birthDate": "2019-09-10T08:21:52 ",
     "role": "Riskmanager"
   },
   {
@@ -3740,7 +3740,7 @@
     "firstName": "Irene",
     "lastName": "Wiggins",
     "email": "irenewiggins@digirang.com",
-    "birthDate": "2014-12-02T10:07:00 -02:00",
+    "birthDate": "2014-12-02T10:07:00 ",
     "role": "Riskmanager"
   },
   {
@@ -3748,7 +3748,7 @@
     "firstName": "Hogan",
     "lastName": "Ball",
     "email": "hoganball@digirang.com",
-    "birthDate": "2016-09-26T08:45:00 -03:00",
+    "birthDate": "2016-09-26T08:45:00 ",
     "role": "Riskmanager"
   },
   {
@@ -3756,7 +3756,7 @@
     "firstName": "Maxwell",
     "lastName": "Dudley",
     "email": "maxwelldudley@digirang.com",
-    "birthDate": "2019-12-01T02:22:42 -02:00",
+    "birthDate": "2019-12-01T02:22:42 ",
     "role": "Admin"
   },
   {
@@ -3764,7 +3764,7 @@
     "firstName": "Bradshaw",
     "lastName": "Wells",
     "email": "bradshawwells@digirang.com",
-    "birthDate": "2016-08-10T03:31:09 -03:00",
+    "birthDate": "2016-08-10T03:31:09 ",
     "role": "Auditor"
   },
   {
@@ -3772,7 +3772,7 @@
     "firstName": "Haley",
     "lastName": "Klein",
     "email": "haleyklein@digirang.com",
-    "birthDate": "2018-10-07T04:53:14 -03:00",
+    "birthDate": "2018-10-07T04:53:14 ",
     "role": "Processexpert"
   },
   {
@@ -3780,7 +3780,7 @@
     "firstName": "Pearl",
     "lastName": "Moon",
     "email": "pearlmoon@digirang.com",
-    "birthDate": "2020-09-21T03:06:34 -03:00",
+    "birthDate": "2020-09-21T03:06:34 ",
     "role": "Auditor"
   },
   {
@@ -3788,7 +3788,7 @@
     "firstName": "Merritt",
     "lastName": "Wilson",
     "email": "merrittwilson@digirang.com",
-    "birthDate": "2016-01-16T12:43:07 -02:00",
+    "birthDate": "2016-01-16T12:43:07 ",
     "role": "Admin"
   },
   {
@@ -3796,7 +3796,7 @@
     "firstName": "Rhoda",
     "lastName": "Cash",
     "email": "rhodacash@digirang.com",
-    "birthDate": "2021-01-02T12:21:12 -02:00",
+    "birthDate": "2021-01-02T12:21:12 ",
     "role": "Riskmanager"
   },
   {
@@ -3804,7 +3804,7 @@
     "firstName": "Chris",
     "lastName": "Henry",
     "email": "chrishenry@digirang.com",
-    "birthDate": "2020-08-20T04:44:34 -03:00",
+    "birthDate": "2020-08-20T04:44:34 ",
     "role": "Riskmanager"
   },
   {
@@ -3812,7 +3812,7 @@
     "firstName": "Zamora",
     "lastName": "Colon",
     "email": "zamoracolon@digirang.com",
-    "birthDate": "2021-04-11T12:09:33 -03:00",
+    "birthDate": "2021-04-11T12:09:33 ",
     "role": "Admin"
   },
   {
@@ -3820,7 +3820,7 @@
     "firstName": "Herminia",
     "lastName": "Paul",
     "email": "herminiapaul@digirang.com",
-    "birthDate": "2018-09-07T10:44:52 -03:00",
+    "birthDate": "2018-09-07T10:44:52 ",
     "role": "Auditor"
   },
   {
@@ -3828,7 +3828,7 @@
     "firstName": "Elma",
     "lastName": "Ware",
     "email": "elmaware@digirang.com",
-    "birthDate": "2021-07-24T03:52:35 -03:00",
+    "birthDate": "2021-07-24T03:52:35 ",
     "role": "Riskmanager"
   },
   {
@@ -3836,7 +3836,7 @@
     "firstName": "Tania",
     "lastName": "Sanchez",
     "email": "taniasanchez@digirang.com",
-    "birthDate": "2018-02-13T01:57:56 -02:00",
+    "birthDate": "2018-02-13T01:57:56 ",
     "role": "Admin"
   },
   {
@@ -3844,7 +3844,7 @@
     "firstName": "Curry",
     "lastName": "Phelps",
     "email": "curryphelps@digirang.com",
-    "birthDate": "2016-12-28T02:07:30 -02:00",
+    "birthDate": "2016-12-28T02:07:30 ",
     "role": "Riskmanager"
   },
   {
@@ -3852,7 +3852,7 @@
     "firstName": "Heath",
     "lastName": "Quinn",
     "email": "heathquinn@digirang.com",
-    "birthDate": "2016-03-24T01:26:21 -02:00",
+    "birthDate": "2016-03-24T01:26:21 ",
     "role": "Auditor"
   },
   {
@@ -3860,7 +3860,7 @@
     "firstName": "Allison",
     "lastName": "Gould",
     "email": "allisongould@digirang.com",
-    "birthDate": "2019-07-30T04:16:27 -03:00",
+    "birthDate": "2019-07-30T04:16:27 ",
     "role": "Admin"
   },
   {
@@ -3868,7 +3868,7 @@
     "firstName": "Julia",
     "lastName": "Clayton",
     "email": "juliaclayton@digirang.com",
-    "birthDate": "2021-01-01T10:26:28 -02:00",
+    "birthDate": "2021-01-01T10:26:28 ",
     "role": "Riskmanager"
   },
   {
@@ -3876,7 +3876,7 @@
     "firstName": "Hendricks",
     "lastName": "Landry",
     "email": "hendrickslandry@digirang.com",
-    "birthDate": "2021-06-21T11:15:32 -03:00",
+    "birthDate": "2021-06-21T11:15:32 ",
     "role": "Admin"
   },
   {
@@ -3884,7 +3884,7 @@
     "firstName": "Whitaker",
     "lastName": "Rush",
     "email": "whitakerrush@digirang.com",
-    "birthDate": "2019-05-16T01:21:23 -03:00",
+    "birthDate": "2019-05-16T01:21:23 ",
     "role": "Processexpert"
   },
   {
@@ -3892,7 +3892,7 @@
     "firstName": "Roseann",
     "lastName": "Webb",
     "email": "roseannwebb@digirang.com",
-    "birthDate": "2016-02-15T10:26:50 -02:00",
+    "birthDate": "2016-02-15T10:26:50 ",
     "role": "Riskmanager"
   },
   {
@@ -3900,7 +3900,7 @@
     "firstName": "Zelma",
     "lastName": "Morse",
     "email": "zelmamorse@digirang.com",
-    "birthDate": "2016-11-07T04:38:07 -02:00",
+    "birthDate": "2016-11-07T04:38:07 ",
     "role": "Riskmanager"
   },
   {
@@ -3908,7 +3908,7 @@
     "firstName": "Lauren",
     "lastName": "Harding",
     "email": "laurenharding@digirang.com",
-    "birthDate": "2015-12-04T02:39:54 -02:00",
+    "birthDate": "2015-12-04T02:39:54 ",
     "role": "Auditor"
   },
   {
@@ -3916,7 +3916,7 @@
     "firstName": "Delaney",
     "lastName": "Taylor",
     "email": "delaneytaylor@digirang.com",
-    "birthDate": "2016-12-23T11:55:25 -02:00",
+    "birthDate": "2016-12-23T11:55:25 ",
     "role": "Auditor"
   },
   {
@@ -3924,7 +3924,7 @@
     "firstName": "Sandoval",
     "lastName": "Slater",
     "email": "sandovalslater@digirang.com",
-    "birthDate": "2014-04-22T05:01:44 -03:00",
+    "birthDate": "2014-04-22T05:01:44 ",
     "role": "Admin"
   },
   {
@@ -3932,7 +3932,7 @@
     "firstName": "Bobbi",
     "lastName": "Leach",
     "email": "bobbileach@digirang.com",
-    "birthDate": "2021-05-18T06:36:39 -03:00",
+    "birthDate": "2021-05-18T06:36:39 ",
     "role": "Auditor"
   },
   {
@@ -3940,7 +3940,7 @@
     "firstName": "Hooper",
     "lastName": "Harrell",
     "email": "hooperharrell@digirang.com",
-    "birthDate": "2016-09-09T04:42:55 -03:00",
+    "birthDate": "2016-09-09T04:42:55 ",
     "role": "Processexpert"
   },
   {
@@ -3948,7 +3948,7 @@
     "firstName": "Rosanna",
     "lastName": "Hoffman",
     "email": "rosannahoffman@digirang.com",
-    "birthDate": "2018-01-26T05:25:29 -02:00",
+    "birthDate": "2018-01-26T05:25:29 ",
     "role": "Riskmanager"
   },
   {
@@ -3956,7 +3956,7 @@
     "firstName": "Tanner",
     "lastName": "Rich",
     "email": "tannerrich@digirang.com",
-    "birthDate": "2019-09-08T02:56:16 -03:00",
+    "birthDate": "2019-09-08T02:56:16 ",
     "role": "Riskmanager"
   },
   {
@@ -3964,7 +3964,7 @@
     "firstName": "Wallace",
     "lastName": "James",
     "email": "wallacejames@digirang.com",
-    "birthDate": "2020-05-31T01:50:21 -03:00",
+    "birthDate": "2020-05-31T01:50:21 ",
     "role": "Riskmanager"
   },
   {
@@ -3972,7 +3972,7 @@
     "firstName": "Gayle",
     "lastName": "Hancock",
     "email": "gaylehancock@digirang.com",
-    "birthDate": "2014-06-02T04:17:26 -03:00",
+    "birthDate": "2014-06-02T04:17:26 ",
     "role": "Riskmanager"
   },
   {
@@ -3980,7 +3980,7 @@
     "firstName": "Paula",
     "lastName": "Haney",
     "email": "paulahaney@digirang.com",
-    "birthDate": "2020-07-01T05:13:09 -03:00",
+    "birthDate": "2020-07-01T05:13:09 ",
     "role": "Auditor"
   },
   {
@@ -3988,7 +3988,7 @@
     "firstName": "Angelia",
     "lastName": "Simpson",
     "email": "angeliasimpson@digirang.com",
-    "birthDate": "2020-10-04T09:39:46 -03:00",
+    "birthDate": "2020-10-04T09:39:46 ",
     "role": "Processexpert"
   },
   {
@@ -3996,7 +3996,7 @@
     "firstName": "Trujillo",
     "lastName": "Kaufman",
     "email": "trujillokaufman@digirang.com",
-    "birthDate": "2018-04-14T09:58:36 -03:00",
+    "birthDate": "2018-04-14T09:58:36 ",
     "role": "Auditor"
   },
   {
@@ -4004,7 +4004,7 @@
     "firstName": "Amber",
     "lastName": "Randolph",
     "email": "amberrandolph@digirang.com",
-    "birthDate": "2020-07-21T12:52:46 -03:00",
+    "birthDate": "2020-07-21T12:52:46 ",
     "role": "Processexpert"
   },
   {
@@ -4012,7 +4012,7 @@
     "firstName": "Krista",
     "lastName": "Foreman",
     "email": "kristaforeman@digirang.com",
-    "birthDate": "2015-06-13T12:39:37 -03:00",
+    "birthDate": "2015-06-13T12:39:37 ",
     "role": "Admin"
   },
   {
@@ -4020,7 +4020,7 @@
     "firstName": "Nicole",
     "lastName": "Bryant",
     "email": "nicolebryant@digirang.com",
-    "birthDate": "2016-09-18T06:36:48 -03:00",
+    "birthDate": "2016-09-18T06:36:48 ",
     "role": "Auditor"
   },
   {
@@ -4028,7 +4028,7 @@
     "firstName": "Lynn",
     "lastName": "Barnes",
     "email": "lynnbarnes@digirang.com",
-    "birthDate": "2015-10-08T04:15:15 -03:00",
+    "birthDate": "2015-10-08T04:15:15 ",
     "role": "Auditor"
   },
   {
@@ -4036,7 +4036,7 @@
     "firstName": "Ollie",
     "lastName": "Molina",
     "email": "olliemolina@digirang.com",
-    "birthDate": "2016-07-30T02:00:43 -03:00",
+    "birthDate": "2016-07-30T02:00:43 ",
     "role": "Processexpert"
   },
   {
@@ -4044,7 +4044,7 @@
     "firstName": "Shepherd",
     "lastName": "Dominguez",
     "email": "shepherddominguez@digirang.com",
-    "birthDate": "2016-02-05T12:12:41 -02:00",
+    "birthDate": "2016-02-05T12:12:41 ",
     "role": "Admin"
   },
   {
@@ -4052,7 +4052,7 @@
     "firstName": "Kirsten",
     "lastName": "Mccall",
     "email": "kirstenmccall@digirang.com",
-    "birthDate": "2015-01-29T10:16:19 -02:00",
+    "birthDate": "2015-01-29T10:16:19 ",
     "role": "Admin"
   },
   {
@@ -4060,7 +4060,7 @@
     "firstName": "Adrian",
     "lastName": "Diaz",
     "email": "adriandiaz@digirang.com",
-    "birthDate": "2020-07-25T02:32:30 -03:00",
+    "birthDate": "2020-07-25T02:32:30 ",
     "role": "Admin"
   },
   {
@@ -4068,7 +4068,7 @@
     "firstName": "Branch",
     "lastName": "Le",
     "email": "branchle@digirang.com",
-    "birthDate": "2015-04-30T09:27:56 -03:00",
+    "birthDate": "2015-04-30T09:27:56 ",
     "role": "Riskmanager"
   },
   {
@@ -4076,7 +4076,7 @@
     "firstName": "Edwina",
     "lastName": "Finch",
     "email": "edwinafinch@digirang.com",
-    "birthDate": "2021-06-14T04:32:01 -03:00",
+    "birthDate": "2021-06-14T04:32:01 ",
     "role": "Riskmanager"
   },
   {
@@ -4084,7 +4084,7 @@
     "firstName": "Marquita",
     "lastName": "Mooney",
     "email": "marquitamooney@digirang.com",
-    "birthDate": "2020-05-27T12:38:26 -03:00",
+    "birthDate": "2020-05-27T12:38:26 ",
     "role": "Processexpert"
   },
   {
@@ -4092,7 +4092,7 @@
     "firstName": "Romero",
     "lastName": "Swanson",
     "email": "romeroswanson@digirang.com",
-    "birthDate": "2019-04-24T06:05:51 -03:00",
+    "birthDate": "2019-04-24T06:05:51 ",
     "role": "Admin"
   },
   {
@@ -4100,7 +4100,7 @@
     "firstName": "Tyler",
     "lastName": "Boone",
     "email": "tylerboone@digirang.com",
-    "birthDate": "2016-12-29T07:22:48 -02:00",
+    "birthDate": "2016-12-29T07:22:48 ",
     "role": "Admin"
   },
   {
@@ -4108,7 +4108,7 @@
     "firstName": "Emilia",
     "lastName": "Mcknight",
     "email": "emiliamcknight@digirang.com",
-    "birthDate": "2020-02-04T01:21:29 -02:00",
+    "birthDate": "2020-02-04T01:21:29 ",
     "role": "Admin"
   },
   {
@@ -4116,7 +4116,7 @@
     "firstName": "Callie",
     "lastName": "Ballard",
     "email": "callieballard@digirang.com",
-    "birthDate": "2018-07-03T01:49:20 -03:00",
+    "birthDate": "2018-07-03T01:49:20 ",
     "role": "Processexpert"
   },
   {
@@ -4124,7 +4124,7 @@
     "firstName": "Emma",
     "lastName": "Murray",
     "email": "emmamurray@digirang.com",
-    "birthDate": "2015-10-11T09:05:46 -03:00",
+    "birthDate": "2015-10-11T09:05:46 ",
     "role": "Admin"
   },
   {
@@ -4132,7 +4132,7 @@
     "firstName": "Stanton",
     "lastName": "Robles",
     "email": "stantonrobles@digirang.com",
-    "birthDate": "2020-09-09T11:19:32 -03:00",
+    "birthDate": "2020-09-09T11:19:32 ",
     "role": "Auditor"
   },
   {
@@ -4140,7 +4140,7 @@
     "firstName": "Liz",
     "lastName": "Barron",
     "email": "lizbarron@digirang.com",
-    "birthDate": "2020-04-28T07:53:56 -03:00",
+    "birthDate": "2020-04-28T07:53:56 ",
     "role": "Processexpert"
   },
   {
@@ -4148,7 +4148,7 @@
     "firstName": "Stevenson",
     "lastName": "Gonzales",
     "email": "stevensongonzales@digirang.com",
-    "birthDate": "2014-01-17T03:51:38 -02:00",
+    "birthDate": "2014-01-17T03:51:38 ",
     "role": "Riskmanager"
   },
   {
@@ -4156,7 +4156,7 @@
     "firstName": "Hanson",
     "lastName": "Contreras",
     "email": "hansoncontreras@digirang.com",
-    "birthDate": "2014-10-02T04:20:10 -03:00",
+    "birthDate": "2014-10-02T04:20:10 ",
     "role": "Admin"
   },
   {
@@ -4164,7 +4164,7 @@
     "firstName": "Josephine",
     "lastName": "Franks",
     "email": "josephinefranks@digirang.com",
-    "birthDate": "2017-05-30T08:39:27 -03:00",
+    "birthDate": "2017-05-30T08:39:27 ",
     "role": "Admin"
   },
   {
@@ -4172,7 +4172,7 @@
     "firstName": "Tamika",
     "lastName": "Skinner",
     "email": "tamikaskinner@digirang.com",
-    "birthDate": "2014-06-24T10:15:01 -03:00",
+    "birthDate": "2014-06-24T10:15:01 ",
     "role": "Auditor"
   },
   {
@@ -4180,7 +4180,7 @@
     "firstName": "Patel",
     "lastName": "Gentry",
     "email": "patelgentry@digirang.com",
-    "birthDate": "2021-02-08T10:12:30 -02:00",
+    "birthDate": "2021-02-08T10:12:30 ",
     "role": "Admin"
   },
   {
@@ -4188,7 +4188,7 @@
     "firstName": "Alyson",
     "lastName": "Benton",
     "email": "alysonbenton@digirang.com",
-    "birthDate": "2021-03-08T05:17:39 -02:00",
+    "birthDate": "2021-03-08T05:17:39 ",
     "role": "Processexpert"
   },
   {
@@ -4196,7 +4196,7 @@
     "firstName": "Pope",
     "lastName": "Pollard",
     "email": "popepollard@digirang.com",
-    "birthDate": "2018-07-04T08:01:20 -03:00",
+    "birthDate": "2018-07-04T08:01:20 ",
     "role": "Riskmanager"
   },
   {
@@ -4204,7 +4204,7 @@
     "firstName": "Jewel",
     "lastName": "Hogan",
     "email": "jewelhogan@digirang.com",
-    "birthDate": "2016-10-09T05:05:06 -03:00",
+    "birthDate": "2016-10-09T05:05:06 ",
     "role": "Processexpert"
   },
   {
@@ -4212,7 +4212,7 @@
     "firstName": "Dorsey",
     "lastName": "Donaldson",
     "email": "dorseydonaldson@digirang.com",
-    "birthDate": "2019-03-03T10:42:32 -02:00",
+    "birthDate": "2019-03-03T10:42:32 ",
     "role": "Admin"
   },
   {
@@ -4220,7 +4220,7 @@
     "firstName": "Cochran",
     "lastName": "Dawson",
     "email": "cochrandawson@digirang.com",
-    "birthDate": "2020-08-12T05:01:20 -03:00",
+    "birthDate": "2020-08-12T05:01:20 ",
     "role": "Riskmanager"
   },
   {
@@ -4228,7 +4228,7 @@
     "firstName": "Darcy",
     "lastName": "Miller",
     "email": "darcymiller@digirang.com",
-    "birthDate": "2015-02-06T08:24:35 -02:00",
+    "birthDate": "2015-02-06T08:24:35 ",
     "role": "Auditor"
   },
   {
@@ -4236,7 +4236,7 @@
     "firstName": "Mays",
     "lastName": "Gillespie",
     "email": "maysgillespie@digirang.com",
-    "birthDate": "2021-07-29T09:07:14 -03:00",
+    "birthDate": "2021-07-29T09:07:14 ",
     "role": "Riskmanager"
   },
   {
@@ -4244,7 +4244,7 @@
     "firstName": "Rebecca",
     "lastName": "Hall",
     "email": "rebeccahall@digirang.com",
-    "birthDate": "2021-03-24T06:50:30 -02:00",
+    "birthDate": "2021-03-24T06:50:30 ",
     "role": "Riskmanager"
   },
   {
@@ -4252,7 +4252,7 @@
     "firstName": "Rita",
     "lastName": "Tyler",
     "email": "ritatyler@digirang.com",
-    "birthDate": "2015-03-16T08:26:38 -02:00",
+    "birthDate": "2015-03-16T08:26:38 ",
     "role": "Auditor"
   },
   {
@@ -4260,7 +4260,7 @@
     "firstName": "Lamb",
     "lastName": "Baird",
     "email": "lambbaird@digirang.com",
-    "birthDate": "2021-09-18T01:07:15 -03:00",
+    "birthDate": "2021-09-18T01:07:15 ",
     "role": "Admin"
   },
   {
@@ -4268,7 +4268,7 @@
     "firstName": "Navarro",
     "lastName": "Jimenez",
     "email": "navarrojimenez@digirang.com",
-    "birthDate": "2019-06-06T03:41:50 -03:00",
+    "birthDate": "2019-06-06T03:41:50 ",
     "role": "Admin"
   },
   {
@@ -4276,7 +4276,7 @@
     "firstName": "Preston",
     "lastName": "Cline",
     "email": "prestoncline@digirang.com",
-    "birthDate": "2014-09-09T11:08:32 -03:00",
+    "birthDate": "2014-09-09T11:08:32 ",
     "role": "Auditor"
   },
   {
@@ -4284,7 +4284,7 @@
     "firstName": "Medina",
     "lastName": "Pittman",
     "email": "medinapittman@digirang.com",
-    "birthDate": "2017-10-28T04:52:43 -03:00",
+    "birthDate": "2017-10-28T04:52:43 ",
     "role": "Admin"
   },
   {
@@ -4292,7 +4292,7 @@
     "firstName": "Carrie",
     "lastName": "Smith",
     "email": "carriesmith@digirang.com",
-    "birthDate": "2020-02-27T09:18:31 -02:00",
+    "birthDate": "2020-02-27T09:18:31 ",
     "role": "Riskmanager"
   },
   {
@@ -4300,7 +4300,7 @@
     "firstName": "Velasquez",
     "lastName": "Vincent",
     "email": "velasquezvincent@digirang.com",
-    "birthDate": "2015-05-18T07:09:01 -03:00",
+    "birthDate": "2015-05-18T07:09:01 ",
     "role": "Admin"
   },
   {
@@ -4308,7 +4308,7 @@
     "firstName": "Rivas",
     "lastName": "Dorsey",
     "email": "rivasdorsey@digirang.com",
-    "birthDate": "2019-12-22T01:17:50 -02:00",
+    "birthDate": "2019-12-22T01:17:50 ",
     "role": "Riskmanager"
   },
   {
@@ -4316,7 +4316,7 @@
     "firstName": "Ellen",
     "lastName": "Beasley",
     "email": "ellenbeasley@digirang.com",
-    "birthDate": "2014-02-22T04:35:58 -02:00",
+    "birthDate": "2014-02-22T04:35:58 ",
     "role": "Admin"
   },
   {
@@ -4324,7 +4324,7 @@
     "firstName": "Frederick",
     "lastName": "Bush",
     "email": "frederickbush@digirang.com",
-    "birthDate": "2016-04-07T05:24:39 -03:00",
+    "birthDate": "2016-04-07T05:24:39 ",
     "role": "Riskmanager"
   },
   {
@@ -4332,7 +4332,7 @@
     "firstName": "Ruth",
     "lastName": "Pitts",
     "email": "ruthpitts@digirang.com",
-    "birthDate": "2014-06-02T09:30:59 -03:00",
+    "birthDate": "2014-06-02T09:30:59 ",
     "role": "Riskmanager"
   },
   {
@@ -4340,7 +4340,7 @@
     "firstName": "Tommie",
     "lastName": "Little",
     "email": "tommielittle@digirang.com",
-    "birthDate": "2019-11-16T08:16:42 -02:00",
+    "birthDate": "2019-11-16T08:16:42 ",
     "role": "Riskmanager"
   },
   {
@@ -4348,7 +4348,7 @@
     "firstName": "Crawford",
     "lastName": "Gaines",
     "email": "crawfordgaines@digirang.com",
-    "birthDate": "2016-10-01T10:08:42 -03:00",
+    "birthDate": "2016-10-01T10:08:42 ",
     "role": "Admin"
   },
   {
@@ -4356,7 +4356,7 @@
     "firstName": "Jocelyn",
     "lastName": "Garner",
     "email": "jocelyngarner@digirang.com",
-    "birthDate": "2019-12-26T07:37:49 -02:00",
+    "birthDate": "2019-12-26T07:37:49 ",
     "role": "Processexpert"
   },
   {
@@ -4364,7 +4364,7 @@
     "firstName": "Lacey",
     "lastName": "Camacho",
     "email": "laceycamacho@digirang.com",
-    "birthDate": "2021-06-26T07:50:51 -03:00",
+    "birthDate": "2021-06-26T07:50:51 ",
     "role": "Riskmanager"
   },
   {
@@ -4372,7 +4372,7 @@
     "firstName": "Bell",
     "lastName": "Roy",
     "email": "bellroy@digirang.com",
-    "birthDate": "2016-03-08T07:52:39 -02:00",
+    "birthDate": "2016-03-08T07:52:39 ",
     "role": "Auditor"
   },
   {
@@ -4380,7 +4380,7 @@
     "firstName": "Henderson",
     "lastName": "Bright",
     "email": "hendersonbright@digirang.com",
-    "birthDate": "2021-08-07T12:40:46 -03:00",
+    "birthDate": "2021-08-07T12:40:46 ",
     "role": "Auditor"
   },
   {
@@ -4388,7 +4388,7 @@
     "firstName": "Powell",
     "lastName": "Alvarado",
     "email": "powellalvarado@digirang.com",
-    "birthDate": "2019-04-27T12:53:56 -03:00",
+    "birthDate": "2019-04-27T12:53:56 ",
     "role": "Auditor"
   },
   {
@@ -4396,7 +4396,7 @@
     "firstName": "Angelica",
     "lastName": "Patel",
     "email": "angelicapatel@digirang.com",
-    "birthDate": "2019-04-25T07:39:32 -03:00",
+    "birthDate": "2019-04-25T07:39:32 ",
     "role": "Admin"
   },
   {
@@ -4404,7 +4404,7 @@
     "firstName": "Dee",
     "lastName": "Mann",
     "email": "deemann@digirang.com",
-    "birthDate": "2014-01-16T01:27:15 -02:00",
+    "birthDate": "2014-01-16T01:27:15 ",
     "role": "Processexpert"
   },
   {
@@ -4412,7 +4412,7 @@
     "firstName": "Franco",
     "lastName": "Brown",
     "email": "francobrown@digirang.com",
-    "birthDate": "2014-09-23T09:27:06 -03:00",
+    "birthDate": "2014-09-23T09:27:06 ",
     "role": "Auditor"
   },
   {
@@ -4420,7 +4420,7 @@
     "firstName": "Sparks",
     "lastName": "Goodman",
     "email": "sparksgoodman@digirang.com",
-    "birthDate": "2014-01-15T10:29:00 -02:00",
+    "birthDate": "2014-01-15T10:29:00 ",
     "role": "Auditor"
   },
   {
@@ -4428,7 +4428,7 @@
     "firstName": "Burt",
     "lastName": "Brooks",
     "email": "burtbrooks@digirang.com",
-    "birthDate": "2018-04-17T09:03:07 -03:00",
+    "birthDate": "2018-04-17T09:03:07 ",
     "role": "Admin"
   },
   {
@@ -4436,7 +4436,7 @@
     "firstName": "Zimmerman",
     "lastName": "Burke",
     "email": "zimmermanburke@digirang.com",
-    "birthDate": "2014-08-06T07:45:28 -03:00",
+    "birthDate": "2014-08-06T07:45:28 ",
     "role": "Riskmanager"
   },
   {
@@ -4444,7 +4444,7 @@
     "firstName": "Johnson",
     "lastName": "Hooper",
     "email": "johnsonhooper@digirang.com",
-    "birthDate": "2016-11-18T12:13:12 -02:00",
+    "birthDate": "2016-11-18T12:13:12 ",
     "role": "Processexpert"
   },
   {
@@ -4452,7 +4452,7 @@
     "firstName": "Lucy",
     "lastName": "Kennedy",
     "email": "lucykennedy@digirang.com",
-    "birthDate": "2020-09-20T04:38:12 -03:00",
+    "birthDate": "2020-09-20T04:38:12 ",
     "role": "Riskmanager"
   },
   {
@@ -4460,7 +4460,7 @@
     "firstName": "Morales",
     "lastName": "Sanford",
     "email": "moralessanford@digirang.com",
-    "birthDate": "2021-05-20T01:27:00 -03:00",
+    "birthDate": "2021-05-20T01:27:00 ",
     "role": "Processexpert"
   },
   {
@@ -4468,7 +4468,7 @@
     "firstName": "Fitzpatrick",
     "lastName": "Craft",
     "email": "fitzpatrickcraft@digirang.com",
-    "birthDate": "2020-11-01T04:25:27 -02:00",
+    "birthDate": "2020-11-01T04:25:27 ",
     "role": "Riskmanager"
   },
   {
@@ -4476,7 +4476,7 @@
     "firstName": "Mai",
     "lastName": "Kelly",
     "email": "maikelly@digirang.com",
-    "birthDate": "2014-11-06T09:40:12 -02:00",
+    "birthDate": "2014-11-06T09:40:12 ",
     "role": "Riskmanager"
   },
   {
@@ -4484,7 +4484,7 @@
     "firstName": "Elisabeth",
     "lastName": "Pugh",
     "email": "elisabethpugh@digirang.com",
-    "birthDate": "2016-11-24T07:48:29 -02:00",
+    "birthDate": "2016-11-24T07:48:29 ",
     "role": "Processexpert"
   },
   {
@@ -4492,7 +4492,7 @@
     "firstName": "Chase",
     "lastName": "Dotson",
     "email": "chasedotson@digirang.com",
-    "birthDate": "2021-09-08T04:46:56 -03:00",
+    "birthDate": "2021-09-08T04:46:56 ",
     "role": "Riskmanager"
   },
   {
@@ -4500,7 +4500,7 @@
     "firstName": "Griffith",
     "lastName": "Bean",
     "email": "griffithbean@digirang.com",
-    "birthDate": "2019-05-26T08:47:19 -03:00",
+    "birthDate": "2019-05-26T08:47:19 ",
     "role": "Riskmanager"
   },
   {
@@ -4508,7 +4508,7 @@
     "firstName": "Mitzi",
     "lastName": "Spence",
     "email": "mitzispence@digirang.com",
-    "birthDate": "2014-08-25T05:31:02 -03:00",
+    "birthDate": "2014-08-25T05:31:02 ",
     "role": "Admin"
   },
   {
@@ -4516,7 +4516,7 @@
     "firstName": "Donna",
     "lastName": "Grant",
     "email": "donnagrant@digirang.com",
-    "birthDate": "2014-01-03T02:04:17 -02:00",
+    "birthDate": "2014-01-03T02:04:17 ",
     "role": "Processexpert"
   },
   {
@@ -4524,7 +4524,7 @@
     "firstName": "Carr",
     "lastName": "Mills",
     "email": "carrmills@digirang.com",
-    "birthDate": "2014-07-07T02:51:27 -03:00",
+    "birthDate": "2014-07-07T02:51:27 ",
     "role": "Processexpert"
   },
   {
@@ -4532,7 +4532,7 @@
     "firstName": "Banks",
     "lastName": "Kirby",
     "email": "bankskirby@digirang.com",
-    "birthDate": "2016-03-08T02:21:49 -02:00",
+    "birthDate": "2016-03-08T02:21:49 ",
     "role": "Admin"
   },
   {
@@ -4540,7 +4540,7 @@
     "firstName": "Selena",
     "lastName": "Gregory",
     "email": "selenagregory@digirang.com",
-    "birthDate": "2020-06-06T08:47:46 -03:00",
+    "birthDate": "2020-06-06T08:47:46 ",
     "role": "Admin"
   },
   {
@@ -4548,7 +4548,7 @@
     "firstName": "Kathrine",
     "lastName": "Valentine",
     "email": "kathrinevalentine@digirang.com",
-    "birthDate": "2018-04-06T10:34:44 -03:00",
+    "birthDate": "2018-04-06T10:34:44 ",
     "role": "Processexpert"
   },
   {
@@ -4556,7 +4556,7 @@
     "firstName": "Combs",
     "lastName": "Strickland",
     "email": "combsstrickland@digirang.com",
-    "birthDate": "2021-02-18T02:42:46 -02:00",
+    "birthDate": "2021-02-18T02:42:46 ",
     "role": "Admin"
   },
   {
@@ -4564,7 +4564,7 @@
     "firstName": "Katheryn",
     "lastName": "Harris",
     "email": "katherynharris@digirang.com",
-    "birthDate": "2015-08-26T12:55:52 -03:00",
+    "birthDate": "2015-08-26T12:55:52 ",
     "role": "Riskmanager"
   },
   {
@@ -4572,7 +4572,7 @@
     "firstName": "Tran",
     "lastName": "William",
     "email": "tranwilliam@digirang.com",
-    "birthDate": "2017-10-09T01:20:08 -03:00",
+    "birthDate": "2017-10-09T01:20:08 ",
     "role": "Auditor"
   },
   {
@@ -4580,7 +4580,7 @@
     "firstName": "Monroe",
     "lastName": "Davis",
     "email": "monroedavis@digirang.com",
-    "birthDate": "2019-08-26T10:59:49 -03:00",
+    "birthDate": "2019-08-26T10:59:49 ",
     "role": "Auditor"
   },
   {
@@ -4588,7 +4588,7 @@
     "firstName": "Melva",
     "lastName": "Newman",
     "email": "melvanewman@digirang.com",
-    "birthDate": "2019-08-12T09:59:23 -03:00",
+    "birthDate": "2019-08-12T09:59:23 ",
     "role": "Admin"
   },
   {
@@ -4596,7 +4596,7 @@
     "firstName": "Rena",
     "lastName": "Lambert",
     "email": "renalambert@digirang.com",
-    "birthDate": "2014-11-13T12:58:07 -02:00",
+    "birthDate": "2014-11-13T12:58:07 ",
     "role": "Processexpert"
   },
   {
@@ -4604,7 +4604,7 @@
     "firstName": "Blackburn",
     "lastName": "Robbins",
     "email": "blackburnrobbins@digirang.com",
-    "birthDate": "2016-04-23T12:50:26 -03:00",
+    "birthDate": "2016-04-23T12:50:26 ",
     "role": "Riskmanager"
   },
   {
@@ -4612,7 +4612,7 @@
     "firstName": "Flynn",
     "lastName": "Clemons",
     "email": "flynnclemons@digirang.com",
-    "birthDate": "2016-09-27T11:10:19 -03:00",
+    "birthDate": "2016-09-27T11:10:19 ",
     "role": "Riskmanager"
   },
   {
@@ -4620,7 +4620,7 @@
     "firstName": "Violet",
     "lastName": "Payne",
     "email": "violetpayne@digirang.com",
-    "birthDate": "2021-04-09T10:15:56 -03:00",
+    "birthDate": "2021-04-09T10:15:56 ",
     "role": "Riskmanager"
   },
   {
@@ -4628,7 +4628,7 @@
     "firstName": "Hazel",
     "lastName": "Sims",
     "email": "hazelsims@digirang.com",
-    "birthDate": "2018-11-20T04:27:31 -02:00",
+    "birthDate": "2018-11-20T04:27:31 ",
     "role": "Processexpert"
   },
   {
@@ -4636,7 +4636,7 @@
     "firstName": "Corine",
     "lastName": "Washington",
     "email": "corinewashington@digirang.com",
-    "birthDate": "2020-02-26T09:05:19 -02:00",
+    "birthDate": "2020-02-26T09:05:19 ",
     "role": "Riskmanager"
   },
   {
@@ -4644,7 +4644,7 @@
     "firstName": "Mccarty",
     "lastName": "Chavez",
     "email": "mccartychavez@digirang.com",
-    "birthDate": "2019-05-30T05:29:43 -03:00",
+    "birthDate": "2019-05-30T05:29:43 ",
     "role": "Admin"
   },
   {
@@ -4652,7 +4652,7 @@
     "firstName": "Bates",
     "lastName": "Hull",
     "email": "bateshull@digirang.com",
-    "birthDate": "2020-09-02T11:42:45 -03:00",
+    "birthDate": "2020-09-02T11:42:45 ",
     "role": "Processexpert"
   },
   {
@@ -4660,7 +4660,7 @@
     "firstName": "Marguerite",
     "lastName": "Briggs",
     "email": "margueritebriggs@digirang.com",
-    "birthDate": "2017-04-19T05:49:09 -03:00",
+    "birthDate": "2017-04-19T05:49:09 ",
     "role": "Auditor"
   },
   {
@@ -4668,7 +4668,7 @@
     "firstName": "Higgins",
     "lastName": "Powers",
     "email": "higginspowers@digirang.com",
-    "birthDate": "2014-07-28T06:58:18 -03:00",
+    "birthDate": "2014-07-28T06:58:18 ",
     "role": "Processexpert"
   },
   {
@@ -4676,7 +4676,7 @@
     "firstName": "Loraine",
     "lastName": "Patton",
     "email": "lorainepatton@digirang.com",
-    "birthDate": "2017-12-20T05:33:23 -02:00",
+    "birthDate": "2017-12-20T05:33:23 ",
     "role": "Auditor"
   },
   {
@@ -4684,7 +4684,7 @@
     "firstName": "Kay",
     "lastName": "Ellis",
     "email": "kayellis@digirang.com",
-    "birthDate": "2017-07-27T12:46:30 -03:00",
+    "birthDate": "2017-07-27T12:46:30 ",
     "role": "Processexpert"
   },
   {
@@ -4692,7 +4692,7 @@
     "firstName": "Flora",
     "lastName": "Burns",
     "email": "floraburns@digirang.com",
-    "birthDate": "2014-09-24T06:09:02 -03:00",
+    "birthDate": "2014-09-24T06:09:02 ",
     "role": "Riskmanager"
   },
   {
@@ -4700,7 +4700,7 @@
     "firstName": "Jenkins",
     "lastName": "Weber",
     "email": "jenkinsweber@digirang.com",
-    "birthDate": "2016-05-01T04:48:50 -03:00",
+    "birthDate": "2016-05-01T04:48:50 ",
     "role": "Auditor"
   },
   {
@@ -4708,7 +4708,7 @@
     "firstName": "Thornton",
     "lastName": "Jordan",
     "email": "thorntonjordan@digirang.com",
-    "birthDate": "2017-09-16T08:15:19 -03:00",
+    "birthDate": "2017-09-16T08:15:19 ",
     "role": "Admin"
   },
   {
@@ -4716,7 +4716,7 @@
     "firstName": "Alberta",
     "lastName": "Parker",
     "email": "albertaparker@digirang.com",
-    "birthDate": "2018-08-01T04:39:44 -03:00",
+    "birthDate": "2018-08-01T04:39:44 ",
     "role": "Riskmanager"
   },
   {
@@ -4724,7 +4724,7 @@
     "firstName": "Mary",
     "lastName": "Curtis",
     "email": "marycurtis@digirang.com",
-    "birthDate": "2014-01-06T01:06:59 -02:00",
+    "birthDate": "2014-01-06T01:06:59 ",
     "role": "Riskmanager"
   },
   {
@@ -4732,7 +4732,7 @@
     "firstName": "Nettie",
     "lastName": "Deleon",
     "email": "nettiedeleon@digirang.com",
-    "birthDate": "2014-11-13T08:58:16 -02:00",
+    "birthDate": "2014-11-13T08:58:16 ",
     "role": "Processexpert"
   },
   {
@@ -4740,7 +4740,7 @@
     "firstName": "Mcfarland",
     "lastName": "Richard",
     "email": "mcfarlandrichard@digirang.com",
-    "birthDate": "2015-06-13T12:22:25 -03:00",
+    "birthDate": "2015-06-13T12:22:25 ",
     "role": "Admin"
   },
   {
@@ -4748,7 +4748,7 @@
     "firstName": "Latisha",
     "lastName": "Giles",
     "email": "latishagiles@digirang.com",
-    "birthDate": "2020-12-30T11:21:01 -02:00",
+    "birthDate": "2020-12-30T11:21:01 ",
     "role": "Processexpert"
   },
   {
@@ -4756,7 +4756,7 @@
     "firstName": "Best",
     "lastName": "Herrera",
     "email": "bestherrera@digirang.com",
-    "birthDate": "2021-04-27T02:13:49 -03:00",
+    "birthDate": "2021-04-27T02:13:49 ",
     "role": "Admin"
   },
   {
@@ -4764,7 +4764,7 @@
     "firstName": "Janet",
     "lastName": "Hardy",
     "email": "janethardy@digirang.com",
-    "birthDate": "2016-04-12T10:42:19 -03:00",
+    "birthDate": "2016-04-12T10:42:19 ",
     "role": "Admin"
   },
   {
@@ -4772,7 +4772,7 @@
     "firstName": "Guerrero",
     "lastName": "Mathews",
     "email": "guerreromathews@digirang.com",
-    "birthDate": "2015-10-23T01:52:05 -03:00",
+    "birthDate": "2015-10-23T01:52:05 ",
     "role": "Riskmanager"
   },
   {
@@ -4780,7 +4780,7 @@
     "firstName": "Bullock",
     "lastName": "Chan",
     "email": "bullockchan@digirang.com",
-    "birthDate": "2019-04-05T06:36:08 -03:00",
+    "birthDate": "2019-04-05T06:36:08 ",
     "role": "Processexpert"
   },
   {
@@ -4788,7 +4788,7 @@
     "firstName": "Cleo",
     "lastName": "Bradshaw",
     "email": "cleobradshaw@digirang.com",
-    "birthDate": "2017-04-20T04:49:46 -03:00",
+    "birthDate": "2017-04-20T04:49:46 ",
     "role": "Auditor"
   },
   {
@@ -4796,7 +4796,7 @@
     "firstName": "Colette",
     "lastName": "Wright",
     "email": "colettewright@digirang.com",
-    "birthDate": "2018-07-08T03:03:32 -03:00",
+    "birthDate": "2018-07-08T03:03:32 ",
     "role": "Auditor"
   }
 ]

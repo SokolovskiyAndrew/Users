@@ -1,0 +1,37 @@
+<div class="user" [id]="userInfo.id">
+  <div class="user-info">
+    <div class="header">
+      <h2 class="header-title">
+        {{ userInfo.firstName }} {{ userInfo.lastName }}
+      </h2>
+      <div class="header-info d-flex">
+        <div class="header-info-item">
+          <span>{{ userInfo.birthDate | date: "MM/dd/YY" }}</span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="body">
+    <div>
+      <p>{{ userInfo.role }}</p>
+      <p>{{ userInfo.email }}</p>
+    </div>
+    <div class="user-actions d-flex align-items-center">
+      <button
+        type="button"
+        class="btn btn-warning"
+        (click)="editUser(userInfo.id)"
+      >
+        Edit
+      </button>
+      <button
+        type="button"
+        class="btn btn-danger"
+        (click)="deleteUser(userInfo.id)"
+      >
+        Delete
+      </button>
+    </div>
+  </div>
+</div>

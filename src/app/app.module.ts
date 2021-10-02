@@ -7,6 +7,7 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { CoreModule } from './core/core.module';
 import { effects, reducers } from './store';
+import { UsersModule } from './features/users/users.module';
 
 @NgModule({
   declarations: [AppComponent],
@@ -15,6 +16,7 @@ import { effects, reducers } from './store';
     AppRoutingModule,
     NgbModule,
     CoreModule,
+    UsersModule,
     StoreModule.forRoot(reducers),
     EffectsModule.forRoot(effects),
   ],
