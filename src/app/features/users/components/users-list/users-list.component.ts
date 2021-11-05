@@ -68,5 +68,7 @@ export class UsersListComponent implements OnInit {
 
   private callOne(): void {
     console.log('one');
+    console.log('amend');
+    console.log('prepend');
   }
 }
