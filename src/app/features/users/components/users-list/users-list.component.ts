@@ -65,4 +65,10 @@ export class UsersListComponent implements OnInit {
     this.store.dispatch(getUserList());
     this.userList$ = this.store.select(userList);
   }
+
+  private callOne(): void {
+    console.log('one');
+    console.log('amend');
+    console.log('prepend');
+  }
 }
